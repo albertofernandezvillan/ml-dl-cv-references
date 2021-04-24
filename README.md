@@ -59,6 +59,10 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
   * Example (1): Supercharge Your Machine Learning Experiments with PyCaret and Gradio. https://towardsdatascience.com/supercharge-your-machine-learning-experiments-with-pycaret-and-gradio-5932c61f80d9
 
 
+# Interesting users repositories
+* Jupyter Notebooks and other material from tutorial sessions on Machine Learning, Data Science, and related. https://github.com/dennisbakhuis/Tutorials
+
+
 
 
 # Specific applications
