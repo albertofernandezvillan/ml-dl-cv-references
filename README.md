@@ -73,13 +73,16 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **streamlit**. The fastest way to build and share data apps. https://github.com/streamlit/streamlit
   * Example (1): Deploying Your Machine Learning Apps in 2021 (Streamlit Sharing is here and is awesome). https://towardsdatascience.com/deploying-your-machine-learning-apps-in-2021-a3471c049507
   * Example (2): Diabetes Prediction App. https://github.com/arunnthevapalan/diabetes-prediction-app
+* **fastapi**: FastAPI framework, high performance, easy to learn, fast to code, ready for production. https://github.com/tiangolo/fastapi
+  * Website: https://fastapi.tiangolo.com/
+  * Example (1): How to deploy Machine Learning models as a Microservice using FastAPI. https://towardsdatascience.com/how-to-deploy-machine-learning-models-as-a-microservice-using-fastapi-b3a6002768af
+
+
 
 # MLOPS
 
 * **awesome-mlops**: A curated list of references for MLOps. https://github.com/visenger/awesome-mlops
   *  Website: https://ml-ops.org/
-
-
 
 ## Examples:
 * How I Build Machine Learning Apps in Hours: https://pub.towardsai.net/how-i-build-machine-learning-apps-in-hours-a1b1eaa642ed?gi=7cbefed10ea6
@@ -94,6 +97,10 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * Jupyter Notebooks and other material from tutorial sessions on Machine Learning, Data Science, and related. https://github.com/dennisbakhuis/Tutorials
 
 # Books (mainly with code)
+* **dlwpt-code**: Code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann. https://github.com/deep-learning-with-pytorch/dlwpt-code
+  * Website:  https://www.manning.com/books/deep-learning-with-pytorch
+
+
 * **Practical Data Analysis using Jupyter Notebook**. https://github.com/PacktPublishing/Practical-Data-Analysis-using-Jupyter-Notebook
 
 
