@@ -14,6 +14,7 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 *  **pytorch-lightning**: The lightweight PyTorch wrapper for high-performance AI research. https://github.com/PyTorchLightning/pytorch-lightning
 *  **lightning-transformers**: Flexible interface for high performance research using SOTA Transformers leveraging Pytorch Lightning, Transformers, and Hydra.https://github.com/PyTorchLightning/lightning-transformers
 *  **lightning-flash**: Collection of tasks for fast prototyping, baselining, finetuning and solving problems with deep learning. https://github.com/PyTorchLightning/lightning-flash
+   *  Example (1): Image Classification using Lightning Flash. https://medium.com/nerd-for-tech/image-classification-using-lightning-flash-e549b6c4285f
 
 ## YOLO
 
