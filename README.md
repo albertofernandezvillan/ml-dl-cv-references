@@ -122,6 +122,7 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **Modern Computer Vision with PyTorch**. https://github.com/albertofernandezvillan/Modern-Computer-Vision-with-PyTorch
 * **Practical Data Analysis using Jupyter Notebook**. https://github.com/PacktPublishing/Practical-Data-Analysis-using-Jupyter-Notebook
 * **Advanced Deep Learning with TensorFlow 2 and Keras**. https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras
+* **Practical-Data-Science-with-Python**. https://github.com/PacktPublishing/Practical-Data-Science-with-Python
 
 # Dataset "helpers"
 
