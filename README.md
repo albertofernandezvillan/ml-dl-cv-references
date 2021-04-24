@@ -48,6 +48,7 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **PyCaret**: open-source, low-code machine learning library in Python that automates machine learning workflows. https://github.com/pycaret/pycaret
   *  Official Website: https://www.pycaret.org
   *  Documentation: https://pycaret.readthedocs.io/en/latest/
+  *  Examples: https://github.com/pycaret/pycaret/tree/master/examples
   *  Example (1): Deploy Machine Learning Pipeline on the cloud using Docker Container. https://towardsdatascience.com/deploy-machine-learning-pipeline-on-cloud-using-docker-container-bec64458dc01
 
 * **Scikit-learn**: machine learning in Python. https://github.com/scikit-learn/scikit-learn
@@ -63,11 +64,19 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 
 * **gradio**: Create UIs for prototyping your machine learning model in 3 minutes. Quickly create customizable UI components around your models. https://github.com/gradio-app/gradio
   * Example (1): Supercharge Your Machine Learning Experiments with PyCaret and Gradio. https://towardsdatascience.com/supercharge-your-machine-learning-experiments-with-pycaret-and-gradio-5932c61f80d9
+* **streamlit**. The fastest way to build and share data apps. https://github.com/streamlit/streamlit
+  * Example (1): Deploying Your Machine Learning Apps in 2021 (Streamlit Sharing is here and is awesome). https://towardsdatascience.com/deploying-your-machine-learning-apps-in-2021-a3471c049507
+  * Example (2): Diabetes Prediction App. https://github.com/arunnthevapalan/diabetes-prediction-app
+
+# MLOPS
+## Examples:
+* How I Build Machine Learning Apps in Hours: https://pub.towardsai.net/how-i-build-machine-learning-apps-in-hours-a1b1eaa642ed?gi=7cbefed10ea6
+* How to Dockerize Any Machine Learning Application: https://towardsdatascience.com/how-to-dockerize-any-machine-learning-application-f78db654c601. https://www.kdnuggets.com/2021/04/dockerize-any-machine-learning-application.html
+* Deploying Your Machine Learning Apps in 2021: https://towardsdatascience.com/deploying-your-machine-learning-apps-in-2021-a3471c049507
 
 # Kaggle
 * **Hidden Gems: A Collection of Underrated Notebooks**. https://www.kaggle.com/headsortails/hidden-gems-a-collection-of-underrated-notebooks/
-
-
+* **Embedding and Linking Notebooks**. https://www.kaggle.com/product-feedback/230748
 
 # Interesting users repositories
 * Jupyter Notebooks and other material from tutorial sessions on Machine Learning, Data Science, and related. https://github.com/dennisbakhuis/Tutorials
@@ -76,10 +85,17 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **Practical Data Analysis using Jupyter Notebook**. https://github.com/PacktPublishing/Practical-Data-Analysis-using-Jupyter-Notebook
 
 
+# Edge computing (mainly related to computer vision)
+## Examples
+* Deploy YOLOv5 to Jetson Xavier NX at 30FPS: https://blog.roboflow.com/deploy-yolov5-to-jetson-nx/. First, we have to train YOLO V5 (https://models.roboflow.com/object-detection/yolov5)
+
+
+
 # Specific applications
 
 
-# Quick and dirty notes for me to check
+
+# Quick and dirty notes (just for me)
 
 * How to Choose a CI Framework for Deep Learning: https://medium.com/pytorch-lightning/how-to-choose-a-ci-framework-for-deep-learning-d24ee9ef902c
 * Data Science 101: Normalization, Standardization, and Regularization: https://www.kdnuggets.com/2021/04/data-science-101-normalization-standardization-regularization.html
@@ -87,7 +103,15 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * A Layman’s guide to ROC Curves And AUC. https://mlwhiz.com/blog/2021/02/03/roc-auc-curves-explained/?utm_campaign=a-laymans-guide-to-roc-curves-and-auc&utm_medium=social_link&utm_source=missinglettr
 * Explainable AI (XAI) with a Decision Tree (Practical guide for XAI analysis with Decision Tree visualization): https://towardsdatascience.com/explainable-ai-xai-with-a-decision-tree-960d60b240bd
 * Data Cleaning: Hidden Aspect of Good Data Scientist: https://dockship.io/articles/60748d13dba94b312797af1e/data-cleaning:-hidden-aspect-of-good-data-scientist
-
-
+* How to Use Variance Thresholding For Robust Feature Selection: https://towardsdatascience.com/how-to-use-variance-thresholding-for-robust-feature-selection-a4503f2b5c3f
+* How to Use Pairwise Correlation For Robust Feature Selection: https://towardsdatascience.com/how-to-use-pairwise-correlation-for-robust-feature-selection-20a60ef7d10
+* Comprehensive data exploration with Python: https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python
+* Plant Pathology with Lightning: https://www.kaggle.com/jirkaborovec/plant-pathology-with-lightning
+* Scaled-YOLOv4: https://blog.roboflow.com/scaled-yolov4-tops-efficientdet/
+* Fusing EfficientNet & YoloV5: https://towardsdatascience.com/fusing-efficientnet-yolov5-advanced-object-detection-2-stage-pipeline-tutorial-da3a77b118d1
+* A journey of building an Advanced Object Detection Pipeline — Doubling YoloV5’s performance: https://towardsdatascience.com/a-journey-of-building-an-advanced-object-detection-pipeline-doubling-yolov5s-performance-b3f1559463bf
+* Exploratory Data Analysis, Visualization, and Prediction Model in Python: https://towardsdatascience.com/exploratory-data-analysis-visualization-and-prediction-model-in-python-241b954e1731
+* How to Choose an Activation Function for Deep Learning. https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/
+* FLIR_to_Yolo. This script converts FLIR thermal dataset annotations to YOLO format. https://github.com/albertofernandezvillan/FLIR_to_Yolo
 
 
