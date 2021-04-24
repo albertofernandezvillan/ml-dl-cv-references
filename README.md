@@ -39,6 +39,12 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 
 # Machine Learning
 
+* **MadeWithML**: Learn how to responsibly deliver value with ML. https://github.com/GokuMohandas/MadeWithML
+  * Website: https://madewithml.com/
+  * Basics: https://github.com/GokuMohandas/madewithml/tree/main/notebooks
+  * MLOps: https://github.com/GokuMohandas/mlops
+  *  
+
 * **PyCaret**: open-source, low-code machine learning library in Python that automates machine learning workflows. https://github.com/pycaret/pycaret
   *  Official Website: https://www.pycaret.org
   *  Documentation: https://pycaret.readthedocs.io/en/latest/
@@ -66,7 +72,8 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 # Interesting users repositories
 * Jupyter Notebooks and other material from tutorial sessions on Machine Learning, Data Science, and related. https://github.com/dennisbakhuis/Tutorials
 
-
+# Books (mainly with code)
+* **Practical Data Analysis using Jupyter Notebook**. https://github.com/PacktPublishing/Practical-Data-Analysis-using-Jupyter-Notebook
 
 
 # Specific applications
