@@ -1,8 +1,13 @@
 # Machine Learning, Deep Learning and Computer Vision references
 These are my quick and dirty notes trying to follow main Machine Learning, Computer Vision &amp; Deep Learning references
 
+# Pytorch
 
-# Pytorch [ecosystem](https://pytorch.org/ecosystem/)
+* **the-incredible-pytorch**: The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch. https://github.com/ritchieng/the-incredible-pytorch
+
+* **pytorch-Deep-Learning**: Deep Learning (with PyTorch). https://github.com/Atcold/pytorch-Deep-Learning
+  * Website: https://atcold.github.io/pytorch-Deep-Learning/ 
+
 
 ## Pytorch Lightning
 Pytorch Lightning main repo: https://github.com/PyTorchLightning 
@@ -20,6 +25,34 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **detectron2**: Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms. https://github.com/facebookresearch/detectron2
 * **mobile-vision**: Mobile Computer Vision @ Facebook. https://github.com/facebookresearch/mobile-vision
 * **hydra**: A framework for elegantly configuring complex applications. https://github.com/facebookresearch/hydra
+
+
+# TensorFlow and Keras
+
+* **TensorFlow-Examples**: TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2). https://github.com/aymericdamien/TensorFlow-Examples
+* **Collection of tutorials**:
+  * Autoencoder in TensorFlow 2: Beginner’s Guide:  https://learnopencv.com/autoencoder-in-tensorflow-2-beginners-guide/
+
+
+# Machine Learning
+
+* **PyCaret**: open-source, low-code machine learning library in Python that automates machine learning workflows. https://github.com/pycaret/pycaret
+  *  Official Website: https://www.pycaret.org
+  *  Documentation: https://pycaret.readthedocs.io/en/latest/
+  *  Example (1): Deploy Machine Learning Pipeline on the cloud using Docker Container. https://towardsdatascience.com/deploy-machine-learning-pipeline-on-cloud-using-docker-container-bec64458dc01
+
+* **Scikit-learn**: machine learning in Python. https://github.com/scikit-learn/scikit-learn
+  *  Website: https://scikit-learn.org
+  *  Example (1): Build and Run a Docker Container for your Machine Learning Model. https://towardsdatascience.com/build-and-run-a-docker-container-for-your-machine-learning-model-60209c2d7a7f
+
+
+
+## Time series analysis
+*  **statsmodels**: statistical models, hypothesis tests, and data exploration. https://github.com/statsmodels/statsmodels. **Example of use**: *Time Series Decomposition In Python (Time Series Analysis Made Easy)*: https://towardsdatascience.com/time-series-decomposition-in-python-8acac385a5b2   
+
+
+
+
 
 
 # Specific applications
