@@ -161,7 +161,7 @@ Text Classification with Movie Reviews (using TF Hub): https://colab.research.go
 
 * How to Choose a CI Framework for Deep Learning: https://medium.com/pytorch-lightning/how-to-choose-a-ci-framework-for-deep-learning-d24ee9ef902c
 * Data Science 101: Normalization, Standardization, and Regularization: https://www.kdnuggets.com/2021/04/data-science-101-normalization-standardization-regularization.html
-* How to Combine Predictions for Ensemble Learning: https://machinelearningmastery.com/combine-predictions-for-ensemble-learning/. Also this one: https://towardsdatascience.com/ensemble-learning-bagging-boosting-3098079e5422 and this one: https://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/
+* How to Combine Predictions for Ensemble Learning: https://machinelearningmastery.com/combine-predictions-for-ensemble-learning/. Also this one: https://towardsdatascience.com/ensemble-learning-bagging-boosting-3098079e5422, this one: https://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/, this one https://machinelearningmastery.com/weighted-average-ensemble-for-deep-learning-neural-networks/
 * A Layman’s guide to ROC Curves And AUC. https://mlwhiz.com/blog/2021/02/03/roc-auc-curves-explained/?utm_campaign=a-laymans-guide-to-roc-curves-and-auc&utm_medium=social_link&utm_source=missinglettr
 * Explainable AI (XAI) with a Decision Tree (Practical guide for XAI analysis with Decision Tree visualization): https://towardsdatascience.com/explainable-ai-xai-with-a-decision-tree-960d60b240bd
 * Data Cleaning: Hidden Aspect of Good Data Scientist: https://dockship.io/articles/60748d13dba94b312797af1e/data-cleaning:-hidden-aspect-of-good-data-scientist
