@@ -58,6 +58,12 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
   * Basics: https://github.com/GokuMohandas/madewithml/tree/main/notebooks
   * MLOps: https://github.com/GokuMohandas/mlops
 
+* **applied-ml**: 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production. Curated papers, articles, and blogs on data science & machine learning in production. ⚙️. https://github.com/eugeneyan/applied-ml
+
+
+
+
+
 * **PyCaret**: open-source, low-code machine learning library in Python that automates machine learning workflows. https://github.com/pycaret/pycaret
   *  Official Website: https://www.pycaret.org
   *  Documentation: https://pycaret.readthedocs.io/en/latest/
@@ -120,6 +126,13 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 
 * **Practical Data Analysis using Jupyter Notebook**. https://github.com/PacktPublishing/Practical-Data-Analysis-using-Jupyter-Notebook
 
+# Dataset "helpers"
+
+* **fiftyone**: The open-source tool for building high-quality datasets and computer vision models. https://github.com/voxel51/fiftyone
+   * Website: https://voxel51.com/docs/fiftyone/
+   * Example (1): Stop Wasting Time with PyTorch Datasets! (Guide to speeding up and streamlining your dataset workflows with FiftyOne). https://towardsdatascience.com/stop-wasting-time-with-pytorch-datasets-17cac2c22fa8
+
+
 
 # XXX Days of Machine and Deep Learning Code
 * **ThinamXx/300Days__MachineLearningDeepLearning**: Journey of 300DaysOfData in Machine Learning and Deep Learning. https://github.com/ThinamXx/300Days__MachineLearningDeepLearning
@@ -148,7 +161,7 @@ Text Classification with Movie Reviews (using TF Hub): https://colab.research.go
 
 * How to Choose a CI Framework for Deep Learning: https://medium.com/pytorch-lightning/how-to-choose-a-ci-framework-for-deep-learning-d24ee9ef902c
 * Data Science 101: Normalization, Standardization, and Regularization: https://www.kdnuggets.com/2021/04/data-science-101-normalization-standardization-regularization.html
-* How to Combine Predictions for Ensemble Learning: https://machinelearningmastery.com/combine-predictions-for-ensemble-learning/. Also this one: https://towardsdatascience.com/ensemble-learning-bagging-boosting-3098079e5422
+* How to Combine Predictions for Ensemble Learning: https://machinelearningmastery.com/combine-predictions-for-ensemble-learning/. Also this one: https://towardsdatascience.com/ensemble-learning-bagging-boosting-3098079e5422 and this one: https://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/
 * A Layman’s guide to ROC Curves And AUC. https://mlwhiz.com/blog/2021/02/03/roc-auc-curves-explained/?utm_campaign=a-laymans-guide-to-roc-curves-and-auc&utm_medium=social_link&utm_source=missinglettr
 * Explainable AI (XAI) with a Decision Tree (Practical guide for XAI analysis with Decision Tree visualization): https://towardsdatascience.com/explainable-ai-xai-with-a-decision-tree-960d60b240bd
 * Data Cleaning: Hidden Aspect of Good Data Scientist: https://dockship.io/articles/60748d13dba94b312797af1e/data-cleaning:-hidden-aspect-of-good-data-scientist
