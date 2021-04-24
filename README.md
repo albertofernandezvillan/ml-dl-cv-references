@@ -38,7 +38,9 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 
 # Edge computing
 
-TinyML Paper and Projects
+* **tinyml-papers-and-projects**: This is a list of interesting papers and projects about TinyML. https://github.com/gigwegbe/tinyml-papers-and-projects
+
+
 
 ## Examples
 * Deploy YOLOv5 to Jetson Xavier NX at 30FPS: https://blog.roboflow.com/deploy-yolov5-to-jetson-nx/. First, we have to train YOLO V5 (https://models.roboflow.com/object-detection/yolov5)
