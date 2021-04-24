@@ -68,4 +68,9 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 # Specific applications
 
 
+# Quick and dirty notes for me to check
+
+
+
+
 
