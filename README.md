@@ -64,7 +64,19 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 
 
 ## Time series analysis
-*  **statsmodels**: statistical models, hypothesis tests, and data exploration. https://github.com/statsmodels/statsmodels. **Example of use**: *Time Series Decomposition In Python (Time Series Analysis Made Easy)*: https://towardsdatascience.com/time-series-decomposition-in-python-8acac385a5b2   
+*  **statsmodels**: statistical models, hypothesis tests, and data exploration. https://github.com/statsmodels/statsmodels. **Example of use**: *Time Series Decomposition In Python (Time Series Analysis Made Easy)*: https://towardsdatascience.com/time-series-decomposition-in-python-8acac385a5b2 
+*  Multiple Time Series Forecasting with PyCaret: https://towardsdatascience.com/multiple-time-series-forecasting-with-pycaret-bc0a779a22fe
+
+## Machine learning examples
+* 130 Machine Learning Projects Solved and Explained: https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392
+
+## Machine learning EDA
+### Some examples:
+* Titanic: Machine Learning from Disaster - EDA: https://www.kaggle.com/dwin183287/titanic-machine-learning-from-disaster-eda
+
+## Outlier detection:
+* 4 Machine learning techniques for outlier detection in Python. https://towardsdatascience.com/4-machine-learning-techniques-for-outlier-detection-in-python-21e9cfacb81d
+
 
 # Exposing & deploying your applications
 
@@ -104,11 +116,14 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **Practical Data Analysis using Jupyter Notebook**. https://github.com/PacktPublishing/Practical-Data-Analysis-using-Jupyter-Notebook
 
 
-# 100 Days of Machine and Deep Learning Code
+# XXX Days of Machine and Deep Learning Code
+* **ThinamXx/300Days__MachineLearningDeepLearning**: Journey of 300DaysOfData in Machine Learning and Deep Learning. https://github.com/ThinamXx/300Days__MachineLearningDeepLearning
 * **jelifysh/100daysofmlcode**: https://github.com/jelifysh/100daysofmlcode/
 
 # Specific applications
-
+## Medical applications
+* Open Source project to help predict Tuberculosis from chest X-Rays (Tensorflow, OpenCV, Scikit-Learn). https://github.com/darwinai/TuberculosisNet
+* 
 
 
 # Quick and dirty notes (just for me)
@@ -130,4 +145,5 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * How to Choose an Activation Function for Deep Learning. https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/
 * FLIR_to_Yolo. This script converts FLIR thermal dataset annotations to YOLO format. https://github.com/albertofernandezvillan/FLIR_to_Yolo
 * Dimensionality reduction with Autoencoders versus PCA. https://towardsdatascience.com/dimensionality-reduction-with-autoencoders-versus-pca-f47666f80743
+* P-value Explained Simply for Data Scientists: https://mlwhiz.com/blog/2019/11/11/pval/?utm_campaign=p-value-explained-simply-for-data-scientists&utm_medium=social_link&utm_source=missinglettr-linkedin
 
