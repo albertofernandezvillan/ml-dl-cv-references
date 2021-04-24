@@ -76,6 +76,11 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 
 # MLOPS
 
+* **awesome-mlops**: A curated list of references for MLOps. https://github.com/visenger/awesome-mlops
+  *  Website: https://ml-ops.org/
+
+
+
 ## Examples:
 * How I Build Machine Learning Apps in Hours: https://pub.towardsai.net/how-i-build-machine-learning-apps-in-hours-a1b1eaa642ed?gi=7cbefed10ea6
 * How to Dockerize Any Machine Learning Application: https://towardsdatascience.com/how-to-dockerize-any-machine-learning-application-f78db654c601. https://www.kdnuggets.com/2021/04/dockerize-any-machine-learning-application.html
