@@ -36,6 +36,12 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **Collection of tutorials**:
   * Autoencoder in TensorFlow 2: Beginner’s Guide:  https://learnopencv.com/autoencoder-in-tensorflow-2-beginners-guide/
 
+# Optimization frameworks
+* **optuna**: A hyperparameter optimization framework. https://github.com/optuna/optuna
+   * Website: https://optuna.org/
+   * Collection of unofficial optuna examples (scikit-learn, pytorch, tensorflow, xgboost,...) https://github.com/toshihikoyanase/optuna-examples
+
+
 
 # Edge computing
 
@@ -125,7 +131,9 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 ## Medical applications
 * Open Source project to help predict Tuberculosis from chest X-Rays (Tensorflow, OpenCV, Scikit-Learn). https://github.com/darwinai/TuberculosisNet
 * 
+# Cheat Sheets
 
+* Your Ultimate Data Mining & Machine Learning Cheat Sheet (using scikit-learn). https://towardsdatascience.com/your-ultimate-data-mining-machine-learning-cheat-sheet-9fce3fa16
 
 # Quick and dirty notes (just for me)
 
