@@ -36,6 +36,12 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
   * Autoencoder in TensorFlow 2: Beginner’s Guide:  https://learnopencv.com/autoencoder-in-tensorflow-2-beginners-guide/
 
 
+# Edge computing
+
+TinyML Paper and Projects
+
+## Examples
+* Deploy YOLOv5 to Jetson Xavier NX at 30FPS: https://blog.roboflow.com/deploy-yolov5-to-jetson-nx/. First, we have to train YOLO V5 (https://models.roboflow.com/object-detection/yolov5)
 
 # Machine Learning
 
@@ -43,7 +49,6 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
   * Website: https://madewithml.com/
   * Basics: https://github.com/GokuMohandas/madewithml/tree/main/notebooks
   * MLOps: https://github.com/GokuMohandas/mlops
-  *  
 
 * **PyCaret**: open-source, low-code machine learning library in Python that automates machine learning workflows. https://github.com/pycaret/pycaret
   *  Official Website: https://www.pycaret.org
@@ -54,7 +59,6 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **Scikit-learn**: machine learning in Python. https://github.com/scikit-learn/scikit-learn
   *  Website: https://scikit-learn.org
   *  Example (1): Build and Run a Docker Container for your Machine Learning Model. https://towardsdatascience.com/build-and-run-a-docker-container-for-your-machine-learning-model-60209c2d7a7f
-
 
 
 ## Time series analysis
@@ -69,6 +73,7 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
   * Example (2): Diabetes Prediction App. https://github.com/arunnthevapalan/diabetes-prediction-app
 
 # MLOPS
+
 ## Examples:
 * How I Build Machine Learning Apps in Hours: https://pub.towardsai.net/how-i-build-machine-learning-apps-in-hours-a1b1eaa642ed?gi=7cbefed10ea6
 * How to Dockerize Any Machine Learning Application: https://towardsdatascience.com/how-to-dockerize-any-machine-learning-application-f78db654c601. https://www.kdnuggets.com/2021/04/dockerize-any-machine-learning-application.html
@@ -85,11 +90,8 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **Practical Data Analysis using Jupyter Notebook**. https://github.com/PacktPublishing/Practical-Data-Analysis-using-Jupyter-Notebook
 
 
-# Edge computing (mainly related to computer vision)
-## Examples
-* Deploy YOLOv5 to Jetson Xavier NX at 30FPS: https://blog.roboflow.com/deploy-yolov5-to-jetson-nx/. First, we have to train YOLO V5 (https://models.roboflow.com/object-detection/yolov5)
-
-
+# 100 Days of Machine and Deep Learning Code
+* **jelifysh/100daysofmlcode**: https://github.com/jelifysh/100daysofmlcode/
 
 # Specific applications
 
@@ -99,7 +101,7 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 
 * How to Choose a CI Framework for Deep Learning: https://medium.com/pytorch-lightning/how-to-choose-a-ci-framework-for-deep-learning-d24ee9ef902c
 * Data Science 101: Normalization, Standardization, and Regularization: https://www.kdnuggets.com/2021/04/data-science-101-normalization-standardization-regularization.html
-* How to Combine Predictions for Ensemble Learning: https://machinelearningmastery.com/combine-predictions-for-ensemble-learning/
+* How to Combine Predictions for Ensemble Learning: https://machinelearningmastery.com/combine-predictions-for-ensemble-learning/. Also this one: https://towardsdatascience.com/ensemble-learning-bagging-boosting-3098079e5422
 * A Layman’s guide to ROC Curves And AUC. https://mlwhiz.com/blog/2021/02/03/roc-auc-curves-explained/?utm_campaign=a-laymans-guide-to-roc-curves-and-auc&utm_medium=social_link&utm_source=missinglettr
 * Explainable AI (XAI) with a Decision Tree (Practical guide for XAI analysis with Decision Tree visualization): https://towardsdatascience.com/explainable-ai-xai-with-a-decision-tree-960d60b240bd
 * Data Cleaning: Hidden Aspect of Good Data Scientist: https://dockship.io/articles/60748d13dba94b312797af1e/data-cleaning:-hidden-aspect-of-good-data-scientist
@@ -113,5 +115,5 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * Exploratory Data Analysis, Visualization, and Prediction Model in Python: https://towardsdatascience.com/exploratory-data-analysis-visualization-and-prediction-model-in-python-241b954e1731
 * How to Choose an Activation Function for Deep Learning. https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/
 * FLIR_to_Yolo. This script converts FLIR thermal dataset annotations to YOLO format. https://github.com/albertofernandezvillan/FLIR_to_Yolo
-
+* Dimensionality reduction with Autoencoders versus PCA. https://towardsdatascience.com/dimensionality-reduction-with-autoencoders-versus-pca-f47666f80743
 
