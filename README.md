@@ -63,10 +63,6 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 
 * **applied-ml**: 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production. Curated papers, articles, and blogs on data science & machine learning in production. ⚙️. https://github.com/eugeneyan/applied-ml
 
-
-
-
-
 * **PyCaret**: open-source, low-code machine learning library in Python that automates machine learning workflows. https://github.com/pycaret/pycaret
   *  Official Website: https://www.pycaret.org
   *  Documentation: https://pycaret.readthedocs.io/en/latest/
@@ -92,7 +88,6 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 ## Outlier detection:
 * 4 Machine learning techniques for outlier detection in Python. https://towardsdatascience.com/4-machine-learning-techniques-for-outlier-detection-in-python-21e9cfacb81d
 
-
 # Exposing & deploying your applications
 
 * **gradio**: Create UIs for prototyping your machine learning model in 3 minutes. Quickly create customizable UI components around your models. https://github.com/gradio-app/gradio
@@ -103,7 +98,6 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **fastapi**: FastAPI framework, high performance, easy to learn, fast to code, ready for production. https://github.com/tiangolo/fastapi
   * Website: https://fastapi.tiangolo.com/
   * Example (1): How to deploy Machine Learning models as a Microservice using FastAPI. https://towardsdatascience.com/how-to-deploy-machine-learning-models-as-a-microservice-using-fastapi-b3a6002768af
-
 
 # MLOPS
 
@@ -159,6 +153,9 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * MaskTheFace: MaskTheFace is computer vision-based script to mask faces in images. https://github.com/aqeelanwar/MaskTheFace
 * Face-Mask-Detection-Keras: Implementing a face mask detector using Keras and OpenCV. https://github.com/OchirnyamB/Face-Mask-Detection-Keras
 
+## Object detection & recognition
+* Automatic license plate recognition using YoloV5 and PyTesseract. https://github.com/sid0312/anpr_yolov5 
+   * article: https://towardsdatascience.com/indian-car-license-plate-detection-using-yolo-v5-ae2574578175
 
 
 # Papers with code
