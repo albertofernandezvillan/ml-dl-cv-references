@@ -29,9 +29,12 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 
 # TensorFlow and Keras
 
+* **Model Garden for TensorFlow**: The TensorFlow Model Garden is a repository with a number of different implementations of state-of-the-art (SOTA) models and modeling solutions for TensorFlow users. https://github.com/tensorflow/models
+  * Example (1): Training Faster R-CNN Using TensorFlow’s Object Detection API with a Custom Dataset. https://pub.towardsai.net/training-faster-r-cnn-using-tensorflow-object-detection-api-with-a-custom-dataset-88dd525666fd
 * **TensorFlow-Examples**: TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2). https://github.com/aymericdamien/TensorFlow-Examples
 * **Collection of tutorials**:
   * Autoencoder in TensorFlow 2: Beginner’s Guide:  https://learnopencv.com/autoencoder-in-tensorflow-2-beginners-guide/
+
 
 
 # Machine Learning
@@ -50,7 +53,10 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 ## Time series analysis
 *  **statsmodels**: statistical models, hypothesis tests, and data exploration. https://github.com/statsmodels/statsmodels. **Example of use**: *Time Series Decomposition In Python (Time Series Analysis Made Easy)*: https://towardsdatascience.com/time-series-decomposition-in-python-8acac385a5b2   
 
+# Exposing & deploying your applications
 
+* **gradio**: Create UIs for prototyping your machine learning model in 3 minutes. Quickly create customizable UI components around your models. https://github.com/gradio-app/gradio
+  * Example (1): Supercharge Your Machine Learning Experiments with PyCaret and Gradio. https://towardsdatascience.com/supercharge-your-machine-learning-experiments-with-pycaret-and-gradio-5932c61f80d9
 
 
 
