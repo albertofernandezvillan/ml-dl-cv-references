@@ -48,7 +48,6 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **tinyml-papers-and-projects**: This is a list of interesting papers and projects about TinyML. https://github.com/gigwegbe/tinyml-papers-and-projects
 
 
-
 ## Examples
 * Deploy YOLOv5 to Jetson Xavier NX at 30FPS: https://blog.roboflow.com/deploy-yolov5-to-jetson-nx/. First, we have to train YOLO V5 (https://models.roboflow.com/object-detection/yolov5)
 
@@ -97,7 +96,6 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
   * Example (1): How to deploy Machine Learning models as a Microservice using FastAPI. https://towardsdatascience.com/how-to-deploy-machine-learning-models-as-a-microservice-using-fastapi-b3a6002768af
 
 
-
 # MLOPS
 
 * **awesome-mlops**: A curated list of references for MLOps. https://github.com/visenger/awesome-mlops
@@ -126,6 +124,17 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 # XXX Days of Machine and Deep Learning Code
 * **ThinamXx/300Days__MachineLearningDeepLearning**: Journey of 300DaysOfData in Machine Learning and Deep Learning. https://github.com/ThinamXx/300Days__MachineLearningDeepLearning
 * **jelifysh/100daysofmlcode**: https://github.com/jelifysh/100daysofmlcode/
+
+# Google Colab tutorials
+Intro to pandas: https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb
+TensorFlow Programming Concepts: https://colab.research.google.com/notebooks/mlcc/tensorflow_programming_concepts.ipynb
+First Steps with TensorFlow: https://colab.research.google.com/notebooks/mlcc/first_steps_with_tensor_flow.ipynb
+Intro to Neural Networks: https://colab.research.google.com/notebooks/mlcc/intro_to_neural_nets.ipynb
+Intro to Sparse Data and Embeddings: https://colab.research.google.com/notebooks/mlcc/intro_to_sparse_data_and_embeddings.ipynb
+Tensorflow with GPU: https://colab.research.google.com/notebooks/gpu.ipynb
+TPUs in Colab: https://colab.research.google.com/notebooks/tpu.ipynb
+Retraining an Image Classifier (using TF Hub): https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/tf2_image_retraining.ipynb
+Text Classification with Movie Reviews (using TF Hub): https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/tf2_text_classification.ipynb
 
 # Specific applications
 ## Medical applications
