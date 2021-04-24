@@ -58,6 +58,10 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **gradio**: Create UIs for prototyping your machine learning model in 3 minutes. Quickly create customizable UI components around your models. https://github.com/gradio-app/gradio
   * Example (1): Supercharge Your Machine Learning Experiments with PyCaret and Gradio. https://towardsdatascience.com/supercharge-your-machine-learning-experiments-with-pycaret-and-gradio-5932c61f80d9
 
+# Kaggle
+* **Hidden Gems: A Collection of Underrated Notebooks**. https://www.kaggle.com/headsortails/hidden-gems-a-collection-of-underrated-notebooks/
+
+
 
 # Interesting users repositories
 * Jupyter Notebooks and other material from tutorial sessions on Machine Learning, Data Science, and related. https://github.com/dennisbakhuis/Tutorials
@@ -70,6 +74,10 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 
 # Quick and dirty notes for me to check
 
+* How to Choose a CI Framework for Deep Learning: https://medium.com/pytorch-lightning/how-to-choose-a-ci-framework-for-deep-learning-d24ee9ef902c
+* Data Science 101: Normalization, Standardization, and Regularization: https://www.kdnuggets.com/2021/04/data-science-101-normalization-standardization-regularization.html
+* How to Combine Predictions for Ensemble Learning: https://machinelearningmastery.com/combine-predictions-for-ensemble-learning/
+* A Layman’s guide to ROC Curves And AUC. https://mlwhiz.com/blog/2021/02/03/roc-auc-curves-explained/?utm_campaign=a-laymans-guide-to-roc-curves-and-auc&utm_medium=social_link&utm_source=missinglettr
 
 
 
