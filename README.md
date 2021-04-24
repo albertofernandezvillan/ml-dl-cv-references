@@ -36,6 +36,9 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **Collection of tutorials**:
   * Autoencoder in TensorFlow 2: Beginner’s Guide:  https://learnopencv.com/autoencoder-in-tensorflow-2-beginners-guide/
 
+* **paz**: Hierarchical perception library in Python (for pose estimation, object detection, instance segmentation, keypoint estimation, face recognition). https://github.com/oarriaga/paz
+   * Website: https://oarriaga.github.io/paz/
+
 # Optimization frameworks
 * **optuna**: A hyperparameter optimization framework. https://github.com/optuna/optuna
    * Website: https://optuna.org/
@@ -122,8 +125,7 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 # Books (mainly with code)
 * **dlwpt-code**: Code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann. https://github.com/deep-learning-with-pytorch/dlwpt-code
   * Website:  https://www.manning.com/books/deep-learning-with-pytorch
-
-
+* **Modern Computer Vision with PyTorch**. https://github.com/albertofernandezvillan/Modern-Computer-Vision-with-PyTorch
 * **Practical Data Analysis using Jupyter Notebook**. https://github.com/PacktPublishing/Practical-Data-Analysis-using-Jupyter-Notebook
 
 # Dataset "helpers"
@@ -152,10 +154,22 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 # Specific applications
 ## Medical applications
 * Open Source project to help predict Tuberculosis from chest X-Rays (Tensorflow, OpenCV, Scikit-Learn). https://github.com/darwinai/TuberculosisNet
-* 
+
+## Face processing
+* MaskTheFace: MaskTheFace is computer vision-based script to mask faces in images. https://github.com/aqeelanwar/MaskTheFace
+* Face-Mask-Detection-Keras: Implementing a face mask detector using Keras and OpenCV. https://github.com/OchirnyamB/Face-Mask-Detection-Keras
+
+
+
+# Papers with code
+## Multi object tracking
+* **Multi-object-Tracking-paper-code-list**. https://github.com/nightmaredimple/Multi-object-Tracking-paper-code-list
+
 # Cheat Sheets
 
 * Your Ultimate Data Mining & Machine Learning Cheat Sheet (using scikit-learn). https://towardsdatascience.com/your-ultimate-data-mining-machine-learning-cheat-sheet-9fce3fa16
+
+
 
 # Quick and dirty notes (just for me)
 
