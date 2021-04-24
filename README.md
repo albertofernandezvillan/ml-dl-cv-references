@@ -139,15 +139,15 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **jelifysh/100daysofmlcode**: https://github.com/jelifysh/100daysofmlcode/
 
 # Google Colab tutorials
-Intro to pandas: https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb
-TensorFlow Programming Concepts: https://colab.research.google.com/notebooks/mlcc/tensorflow_programming_concepts.ipynb
-First Steps with TensorFlow: https://colab.research.google.com/notebooks/mlcc/first_steps_with_tensor_flow.ipynb
-Intro to Neural Networks: https://colab.research.google.com/notebooks/mlcc/intro_to_neural_nets.ipynb
-Intro to Sparse Data and Embeddings: https://colab.research.google.com/notebooks/mlcc/intro_to_sparse_data_and_embeddings.ipynb
-Tensorflow with GPU: https://colab.research.google.com/notebooks/gpu.ipynb
-TPUs in Colab: https://colab.research.google.com/notebooks/tpu.ipynb
-Retraining an Image Classifier (using TF Hub): https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/tf2_image_retraining.ipynb
-Text Classification with Movie Reviews (using TF Hub): https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/tf2_text_classification.ipynb
+* Intro to pandas: https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb
+* TensorFlow Programming Concepts: https://colab.research.google.com/notebooks/mlcc/tensorflow_programming_concepts.ipynb
+* First Steps with TensorFlow: https://colab.research.google.com/notebooks/mlcc/first_steps_with_tensor_flow.ipynb
+* Intro to Neural Networks: https://colab.research.google.com/notebooks/mlcc/intro_to_neural_nets.ipynb
+* Intro to Sparse Data and Embeddings: https://colab.research.google.com/notebooks/mlcc/intro_to_sparse_data_and_embeddings.ipynb
+* Tensorflow with GPU: https://colab.research.google.com/notebooks/gpu.ipynb
+* TPUs in Colab: https://colab.research.google.com/notebooks/tpu.ipynb
+* Retraining an Image Classifier (using TF Hub): https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/tf2_image_retraining.ipynb
+* Text Classification with Movie Reviews (using TF Hub): https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/tf2_text_classification.ipynb
 
 # Specific applications
 ## Medical applications
