@@ -184,6 +184,7 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 ## Face processing
 * MaskTheFace: MaskTheFace is computer vision-based script to mask faces in images. https://github.com/aqeelanwar/MaskTheFace
 * Face-Mask-Detection-Keras: Implementing a face mask detector using Keras and OpenCV. https://github.com/OchirnyamB/Face-Mask-Detection-Keras
+* Real-time face alignment: evaluation methods, training strategies and implementation optimization (C++ code, but interesting). https://towardsdatascience.com/faster-smoother-smaller-more-accurate-and-more-robust-face-alignment-models-d8cc867efc5. https://gitlab.com/visualhealth/vhpapers/real-time-facealignment
 
 ## Object detection & recognition
 * Automatic license plate recognition using YoloV5 and PyTesseract. https://github.com/sid0312/anpr_yolov5 
