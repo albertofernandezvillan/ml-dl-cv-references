@@ -1,6 +1,9 @@
 # Machine Learning, Deep Learning and Computer Vision references
 These are my quick and dirty notes trying to follow main Machine Learning, Computer Vision &amp; Deep Learning references
 
+# Starting
+* The Data Science Trilogy: NumPy, Pandas and Matplotlib basics. https://towardsdatascience.com/the-data-science-trilogy-numpy-pandas-and-matplotlib-basics-42192b89e26
+
 # Pytorch
 
 * **the-incredible-pytorch**: The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch. https://github.com/ritchieng/the-incredible-pytorch
@@ -176,10 +179,11 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **ds-cheatsheets**. List of Data Science Cheatsheets to rule the world. https://github.com/FavioVazquez/ds-cheatsheets
 * Your Ultimate Data Mining & Machine Learning Cheat Sheet (using scikit-learn). https://towardsdatascience.com/your-ultimate-data-mining-machine-learning-cheat-sheet-9fce3fa16
 
-
+# Testing
+* PyTest for Machine Learning — a simple example-based tutorial. https://towardsdatascience.com/pytest-for-machine-learning-a-simple-example-based-tutorial-a3df3c58cf8
 
 # Quick and dirty notes (just for me)
-
+* InfinityGAN: Towards Infinite-Resolution Image Synthesis. https://hubert0527.github.io/infinityGAN/
 * How to Choose a CI Framework for Deep Learning: https://medium.com/pytorch-lightning/how-to-choose-a-ci-framework-for-deep-learning-d24ee9ef902c
 * Data Science 101: Normalization, Standardization, and Regularization: https://www.kdnuggets.com/2021/04/data-science-101-normalization-standardization-regularization.html
 * How to Combine Predictions for Ensemble Learning: https://machinelearningmastery.com/combine-predictions-for-ensemble-learning/. Also this one: https://towardsdatascience.com/ensemble-learning-bagging-boosting-3098079e5422, this one: https://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/, this one https://machinelearningmastery.com/weighted-average-ensemble-for-deep-learning-neural-networks/
