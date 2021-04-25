@@ -14,6 +14,13 @@ These are my quick and dirty notes trying to follow main Machine Learning, Compu
 
 
 # Starting
+## Python
+* https://www.learnpython.org/
+* https://www.programiz.com/python-programming
+* https://pythonsimplified.com/
+* https://www.python.org/about/gettingstarted/
+
+## Examples
 * The Data Science Trilogy: NumPy, Pandas and Matplotlib basics. https://towardsdatascience.com/the-data-science-trilogy-numpy-pandas-and-matplotlib-basics-42192b89e26
 
 # Pytorch
