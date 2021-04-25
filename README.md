@@ -139,6 +139,8 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * Deploying Your Machine Learning Apps in 2021: https://towardsdatascience.com/deploying-your-machine-learning-apps-in-2021-a3471c049507
 
 # Kaggle
+* **kaggle-solutions**. 🏅 Collection of Kaggle Solutions and Ideas 🏅. https://github.com/faridrashidi/kaggle-solutions
+   * Website: https://farid.one/kaggle-solutions/
 * **Complete collection of the weekly series showcasing underrated Kaggle Notebooks**. https://www.kaggle.com/headsortails/notebooks-of-the-week-hidden-gems
 * **Hidden Gems: A Collection of Underrated Notebooks**. https://www.kaggle.com/headsortails/hidden-gems-a-collection-of-underrated-notebooks/
 * **Embedding and Linking Notebooks**. https://www.kaggle.com/product-feedback/230748
