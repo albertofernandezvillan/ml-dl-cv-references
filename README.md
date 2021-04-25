@@ -116,6 +116,7 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
    * Website: http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/
 * **Data Science Collected Resources**. A trove of carefully curated resources and links (on the topics of software, platforms, language, techniques, etc.) related to data science, all in one place. https://github.com/tirthajyoti/Data-science-best-resources/blob/master/README.md
 * **DataScienceResources**. Open Source Data Science Resources. https://github.com/jonathan-bower/DataScienceResources
+* **Interview-Prepartion-Data-Science**. https://github.com/krishnaik06/Interview-Prepartion-Data-Science
 
 # Exposing & deploying your applications
 
