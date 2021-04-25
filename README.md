@@ -93,6 +93,7 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **data-scientist-roadmap**. Toturial coming with "data science roadmap" graphe. https://github.com/MrMimic/data-scientist-roadmap
    * Website: http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/
 * **Data Science Collected Resources**. A trove of carefully curated resources and links (on the topics of software, platforms, language, techniques, etc.) related to data science, all in one place. https://github.com/tirthajyoti/Data-science-best-resources/blob/master/README.md
+* **DataScienceResources**. Open Source Data Science Resources. https://github.com/jonathan-bower/DataScienceResources
 
 # Exposing & deploying your applications
 
