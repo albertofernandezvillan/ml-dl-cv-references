@@ -1,6 +1,18 @@
 # Machine Learning, Deep Learning and Computer Vision references
 These are my quick and dirty notes trying to follow main Machine Learning, Computer Vision &amp; Deep Learning references
 
+# Awesome
+
+* **awesome**. 😎 Awesome lists about all kinds of interesting topics. https://github.com/sindresorhus/awesome
+* **awesome-awesomeness**. A curated list of awesome awesomeness. https://github.com/bayandin/awesome-awesomeness
+* **awesome-python**. A curated list of awesome Python frameworks, libraries, software and resources. https://github.com/vinta/awesome-python
+   * Website: https://awesome-python.com/
+* **awesome-github**. A curated list of GitHub's awesomeness. https://github.com/phillipadsmith/awesome-github
+* **awesome-deep-learning**. A curated list of awesome Deep Learning tutorials, projects and communities. https://github.com/ChristosChristofidis/awesome-deep-learning
+* **awesome-deeplearning-resources**. Deep Learning and deep reinforcement learning research papers and some codes. https://github.com/endymecy/awesome-deeplearning-resources
+* **awesome-machine-learning**. A curated list of awesome Machine Learning frameworks, libraries and software. https://github.com/josephmisiti/awesome-machine-learning
+
+
 # Starting
 * The Data Science Trilogy: NumPy, Pandas and Matplotlib basics. https://towardsdatascience.com/the-data-science-trilogy-numpy-pandas-and-matplotlib-basics-42192b89e26
 
