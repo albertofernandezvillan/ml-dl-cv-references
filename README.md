@@ -150,7 +150,7 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **awesome-Python-data-science-books**. Probably the best curated list of data science books in Python. https://github.com/khuyentran1401/awesome-Python-data-science-books
 * **dlwpt-code**: Code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann. https://github.com/deep-learning-with-pytorch/dlwpt-code
   * Website:  https://www.manning.com/books/deep-learning-with-pytorch
-* **Modern Computer Vision with PyTorch**. https://github.com/albertofernandezvillan/Modern-Computer-Vision-with-PyTorch
+* **Modern Computer Vision with PyTorch**. https://github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch
 * **Practical Data Analysis using Jupyter Notebook**. https://github.com/PacktPublishing/Practical-Data-Analysis-using-Jupyter-Notebook
 * **Advanced Deep Learning with TensorFlow 2 and Keras**. https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras
 * **Practical-Data-Science-with-Python**. https://github.com/PacktPublishing/Practical-Data-Science-with-Python
