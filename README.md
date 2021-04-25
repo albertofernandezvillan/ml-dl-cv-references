@@ -204,6 +204,7 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * PyTest for Machine Learning — a simple example-based tutorial. https://towardsdatascience.com/pytest-for-machine-learning-a-simple-example-based-tutorial-a3df3c58cf8
 
 # Quick and dirty notes (just for me)
+* An example development repository for using Nvidia Jetson Nano or Xavier as health monitor using computer vision. https://github.com/raymondlo84/nvidia-jetson-ai-monitor
 * InfinityGAN: Towards Infinite-Resolution Image Synthesis. https://hubert0527.github.io/infinityGAN/
 * How to Choose a CI Framework for Deep Learning: https://medium.com/pytorch-lightning/how-to-choose-a-ci-framework-for-deep-learning-d24ee9ef902c
 * Data Science 101: Normalization, Standardization, and Regularization: https://www.kdnuggets.com/2021/04/data-science-101-normalization-standardization-regularization.html
