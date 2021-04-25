@@ -88,6 +88,12 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 ## Outlier detection:
 * 4 Machine learning techniques for outlier detection in Python. https://towardsdatascience.com/4-machine-learning-techniques-for-outlier-detection-in-python-21e9cfacb81d
 
+# Data Science
+* **awesome-datascience**. 📝 An awesome Data Science repository to learn and apply for real world problems. https://github.com/academic/awesome-datascience
+* **data-scientist-roadmap**. Toturial coming with "data science roadmap" graphe. https://github.com/MrMimic/data-scientist-roadmap
+   * Website: http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/
+* **Data Science Collected Resources**. A trove of carefully curated resources and links (on the topics of software, platforms, language, techniques, etc.) related to data science, all in one place. https://github.com/tirthajyoti/Data-science-best-resources/blob/master/README.md
+
 # Exposing & deploying your applications
 
 * **gradio**: Create UIs for prototyping your machine learning model in 3 minutes. Quickly create customizable UI components around your models. https://github.com/gradio-app/gradio
@@ -166,7 +172,7 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **Multi-object-Tracking-paper-code-list**. https://github.com/nightmaredimple/Multi-object-Tracking-paper-code-list
 
 # Cheat Sheets
-
+* **ds-cheatsheets**. List of Data Science Cheatsheets to rule the world. https://github.com/FavioVazquez/ds-cheatsheets
 * Your Ultimate Data Mining & Machine Learning Cheat Sheet (using scikit-learn). https://towardsdatascience.com/your-ultimate-data-mining-machine-learning-cheat-sheet-9fce3fa16
 
 
