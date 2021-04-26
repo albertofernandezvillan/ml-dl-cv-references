@@ -190,9 +190,11 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * Face-Mask-Detection-Keras: Implementing a face mask detector using Keras and OpenCV. https://github.com/OchirnyamB/Face-Mask-Detection-Keras
 * Real-time face alignment: evaluation methods, training strategies and implementation optimization (C++ code, but interesting). https://towardsdatascience.com/faster-smoother-smaller-more-accurate-and-more-robust-face-alignment-models-d8cc867efc5. https://gitlab.com/visualhealth/vhpapers/real-time-facealignment
 
-## Object detection & recognition
+## Object detection, tracking & recognition
 * Automatic license plate recognition using YoloV5 and PyTesseract. https://github.com/sid0312/anpr_yolov5 
    * article: https://towardsdatascience.com/indian-car-license-plate-detection-using-yolo-v5-ae2574578175
+* AI, Machine Learning and Analytics applied to Sports. https://github.com/fpretto/sports_analytics
+   * article: https://towardsdatascience.com/squash-analytics-a-computer-vision-and-deep-learning-approach-d93087d0f298
 
 
 # Papers with code
