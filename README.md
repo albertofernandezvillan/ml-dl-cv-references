@@ -117,6 +117,7 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **Data Science Collected Resources**. A trove of carefully curated resources and links (on the topics of software, platforms, language, techniques, etc.) related to data science, all in one place. https://github.com/tirthajyoti/Data-science-best-resources/blob/master/README.md
 * **DataScienceResources**. Open Source Data Science Resources. https://github.com/jonathan-bower/DataScienceResources
 * **Interview-Prepartion-Data-Science**. https://github.com/krishnaik06/Interview-Prepartion-Data-Science
+* **A Complete Road map to Deep learning 2021 – Part 1**. https://prabakaranchandran.com/2021/04/26/a-complete-road-map-to-deep-learning-2021-part-1/
 
 # Exposing & deploying your applications
 
