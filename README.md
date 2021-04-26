@@ -11,6 +11,7 @@ These are my quick and dirty notes trying to follow main Machine Learning, Compu
 * **awesome-deep-learning**. A curated list of awesome Deep Learning tutorials, projects and communities. https://github.com/ChristosChristofidis/awesome-deep-learning
 * **awesome-deeplearning-resources**. Deep Learning and deep reinforcement learning research papers and some codes. https://github.com/endymecy/awesome-deeplearning-resources
 * **awesome-machine-learning**. A curated list of awesome Machine Learning frameworks, libraries and software. https://github.com/josephmisiti/awesome-machine-learning
+* **awesome-datascience**. 📝 An awesome Data Science repository to learn and apply for real world problems. https://github.com/academic/awesome-datascience
 
 
 # Starting
@@ -19,6 +20,9 @@ These are my quick and dirty notes trying to follow main Machine Learning, Compu
 * https://www.programiz.com/python-programming
 * https://pythonsimplified.com/
 * https://www.python.org/about/gettingstarted/
+* *TheAlgorithms/Python*. All Algorithms implemented in Python. https://github.com/TheAlgorithms/Python
+
+
 
 ## Examples
 * The Data Science Trilogy: NumPy, Pandas and Matplotlib basics. https://towardsdatascience.com/the-data-science-trilogy-numpy-pandas-and-matplotlib-basics-42192b89e26
@@ -112,6 +116,7 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 
 # Data Science
 * **awesome-datascience**. 📝 An awesome Data Science repository to learn and apply for real world problems. https://github.com/academic/awesome-datascience
+* **Data-science-best-resources**. Carefully curated resource links for data science in one place. https://github.com/tirthajyoti/Data-science-best-resources
 * **data-scientist-roadmap**. Toturial coming with "data science roadmap" graphe. https://github.com/MrMimic/data-scientist-roadmap
    * Website: http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/
 * **Data Science Collected Resources**. A trove of carefully curated resources and links (on the topics of software, platforms, language, techniques, etc.) related to data science, all in one place. https://github.com/tirthajyoti/Data-science-best-resources/blob/master/README.md
@@ -203,6 +208,7 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **Multi-object-Tracking-paper-code-list**. https://github.com/nightmaredimple/Multi-object-Tracking-paper-code-list
 
 # Cheat Sheets
+* **learn-python**. 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations. https://github.com/trekhleb/learn-python
 * **ds-cheatsheets**. List of Data Science Cheatsheets to rule the world. https://github.com/FavioVazquez/ds-cheatsheets
 * Your Ultimate Data Mining & Machine Learning Cheat Sheet (using scikit-learn). https://towardsdatascience.com/your-ultimate-data-mining-machine-learning-cheat-sheet-9fce3fa16
 
