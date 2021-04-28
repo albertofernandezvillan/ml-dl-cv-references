@@ -41,6 +41,7 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 *  **lightning-flash**: Collection of tasks for fast prototyping, baselining, finetuning and solving problems with deep learning. https://github.com/PyTorchLightning/lightning-flash
    *  Example (1): Image Classification using Lightning Flash. https://medium.com/nerd-for-tech/image-classification-using-lightning-flash-e549b6c4285f
 
+## Packages using Pytorch 
 * **nanodet**. ⚡Super fast and lightweight anchor-free object detection model. 🔥Only 1.8MB and run 97FPS on cellphone🔥. https://github.com/RangiLyu/nanodet
 
 ## Pytorch helpers
