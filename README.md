@@ -34,13 +34,18 @@ These are my quick and dirty notes trying to follow main Machine Learning, Compu
 * **pytorch-Deep-Learning**: Deep Learning (with PyTorch). https://github.com/Atcold/pytorch-Deep-Learning
   * Website: https://atcold.github.io/pytorch-Deep-Learning/ 
 
-
 ## Pytorch Lightning
 Pytorch Lightning main repo: https://github.com/PyTorchLightning 
 *  **pytorch-lightning**: The lightweight PyTorch wrapper for high-performance AI research. https://github.com/PyTorchLightning/pytorch-lightning
 *  **lightning-transformers**: Flexible interface for high performance research using SOTA Transformers leveraging Pytorch Lightning, Transformers, and Hydra.https://github.com/PyTorchLightning/lightning-transformers
 *  **lightning-flash**: Collection of tasks for fast prototyping, baselining, finetuning and solving problems with deep learning. https://github.com/PyTorchLightning/lightning-flash
    *  Example (1): Image Classification using Lightning Flash. https://medium.com/nerd-for-tech/image-classification-using-lightning-flash-e549b6c4285f
+
+* **nanodet**. ⚡Super fast and lightweight anchor-free object detection model. 🔥Only 1.8MB and run 97FPS on cellphone🔥. https://github.com/RangiLyu/nanodet
+
+## Pytorch helpers
+* **torchinfo**. Torchinfo provides information complementary to what is provided by print(your_model) in PyTorch, similar to Tensorflow's model.summary() API to view the visualization of the model. https://github.com/TylerYep/torchinfo
+
 
 ## YOLO
 
@@ -98,6 +103,8 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **Scikit-learn**: machine learning in Python. https://github.com/scikit-learn/scikit-learn
   *  Website: https://scikit-learn.org
   *  Example (1): Build and Run a Docker Container for your Machine Learning Model. https://towardsdatascience.com/build-and-run-a-docker-container-for-your-machine-learning-model-60209c2d7a7f
+  *  **scikit-learn-mooc**. scikit-learn course. https://github.com/INRIA/scikit-learn-mooc
+     * Website: https://inria.github.io/scikit-learn-mooc/
 
 
 ## Time series analysis
