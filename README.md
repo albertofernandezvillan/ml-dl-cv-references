@@ -30,9 +30,13 @@ These are my quick and dirty notes trying to follow main Machine Learning, Compu
 # Pytorch
 
 * **the-incredible-pytorch**: The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch. https://github.com/ritchieng/the-incredible-pytorch
-
+* **pytorch-beginner**: pytorch tutorial for beginners. https://github.com/L1aoXingyu/pytorch-beginner
 * **pytorch-Deep-Learning**: Deep Learning (with PyTorch). https://github.com/Atcold/pytorch-Deep-Learning
   * Website: https://atcold.github.io/pytorch-Deep-Learning/ 
+* **d2l-en**. Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 175 universities.https://github.com/d2l-ai/d2l-en
+  * Webiste:  https://d2l.ai/
+* **pytorch-tutorial**. PyTorch Tutorial for Deep Learning Researchers. https://github.com/yunjey/pytorch-tutorial
+
 
 ## Pytorch Lightning
 Pytorch Lightning main repo: https://github.com/PyTorchLightning 
