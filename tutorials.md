@@ -1,5 +1,7 @@
 
 # Quick and dirty notes (just for me)
+* YOLO_v3_tutorial_from_scratch. Accompanying code for Paperspace tutorial series "How to Implement YOLO v3 Object Detector from Scratch".https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
+   *  https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/
 * Pipelines: Automated machine learning with HyperParameter Tuning!. https://towardsdatascience.com/pipelines-automated-machine-learning-with-hyperparameter-tuning-part-1-b9c06a99d3c3
 * Change Detection of Structures in Panchromatic Imagery. https://medium.com/geoai/change-detection-of-structures-in-panchromatic-imagery-f3286fde62e6
 * An example development repository for using Nvidia Jetson Nano or Xavier as health monitor using computer vision. https://github.com/raymondlo84/nvidia-jetson-ai-monitor
