@@ -237,6 +237,9 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
    * https://en.wikipedia.org/wiki/Computer_Vision_Annotation_Tool
    * https://cvat.org/
    * https://github.com/openvinotoolkit/cvat/#supported-annotation-formats
+* **VoTT (Visual Object Tagging Tool)**. Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos. https://github.com/microsoft/VoTT
+
+
 
 # Papers with code
 ## Multi object tracking
