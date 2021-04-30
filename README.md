@@ -12,6 +12,11 @@ These are my quick and dirty notes trying to follow main Machine Learning, Compu
 * **awesome-deeplearning-resources**. Deep Learning and deep reinforcement learning research papers and some codes. https://github.com/endymecy/awesome-deeplearning-resources
 * **awesome-machine-learning**. A curated list of awesome Machine Learning frameworks, libraries and software. https://github.com/josephmisiti/awesome-machine-learning
 * **awesome-datascience**. 📝 An awesome Data Science repository to learn and apply for real world problems. https://github.com/academic/awesome-datascience
+* **Awesome-Deep-Learning-Resources**. Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier. https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources
+* **awesome-production-machine-learning**. A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning. https://github.com/EthicalML/awesome-production-machine-learning
+* **awesome-deep-learning-materials**. Curated materials from Centroida's Deep Learning team. https://github.com/hggeorgiev/awesome-deep-learning-materials
+* **Awesome-Machine-Learning-DataScience_Resources**. Curated Collection of Online and Free Resources for serious learning of Machine Learning and Data Science.
+https://github.com/rohan-paul/Awesome-Machine-Learning-DataScience_Resources
 
 
 # Starting
