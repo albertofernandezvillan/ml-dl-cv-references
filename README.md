@@ -228,6 +228,16 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **awesome-data**. Awesome datasets curated. By topic and for core data. https://github.com/datasets/awesome-data
    * Website: https://datahub.io/collections
 
+
+# Annotation tools
+
+* **labelme** (https://github.com/wkentaro/labelme)
+* **labelImg** (https://github.com/tzutalin/labelImg)
+* **CVAT** (https://github.com/openvinotoolkit/cvat)
+   * https://en.wikipedia.org/wiki/Computer_Vision_Annotation_Tool
+   * https://cvat.org/
+   * https://github.com/openvinotoolkit/cvat/#supported-annotation-formats
+
 # Papers with code
 ## Multi object tracking
 * **Multi-object-Tracking-paper-code-list**. https://github.com/nightmaredimple/Multi-object-Tracking-paper-code-list
