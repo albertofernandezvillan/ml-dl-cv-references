@@ -217,6 +217,11 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * AI, Machine Learning and Analytics applied to Sports. https://github.com/fpretto/sports_analytics
    * article: https://towardsdatascience.com/squash-analytics-a-computer-vision-and-deep-learning-approach-d93087d0f298
 
+# Datasets:
+* **paperswithcode datasets**: https://paperswithcode.com/datasets
+* **awesome-public-datasets**: A topic-centric list of HQ open datasets. https://github.com/awesomedata/awesome-public-datasets
+* **awesome-data**. Awesome datasets curated. By topic and for core data. https://github.com/datasets/awesome-data
+   * Website: https://datahub.io/collections
 
 # Papers with code
 ## Multi object tracking
