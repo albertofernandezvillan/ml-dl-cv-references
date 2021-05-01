@@ -1,5 +1,7 @@
 
 # Quick and dirty notes (just for me)
+* cracking-the-data-science-interview: A Collection of Cheatsheets, Books, Questions, and Portfolio For DS/ML Interview Prep. https://github.com/khanhnamle1994/cracking-the-data-science-interview
+* machine-learning-systems-design. A booklet on machine learning systems design with exercises. https://github.com/chiphuyen/machine-learning-systems-design
 * YOLO_v3_tutorial_from_scratch. Accompanying code for Paperspace tutorial series "How to Implement YOLO v3 Object Detector from Scratch".https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
    *  https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/
 * Deep Learning with Keras Cheat Sheet (2021), Python for Data Science. https://towardsdatascience.com/deep-learning-with-keras-cheat-sheet-2021-python-for-data-science-fba43636a9a1
