@@ -247,6 +247,6 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **learn-python**. 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations. https://github.com/trekhleb/learn-python
 * **ds-cheatsheets**. List of Data Science Cheatsheets to rule the world. https://github.com/FavioVazquez/ds-cheatsheets
 * Your Ultimate Data Mining & Machine Learning Cheat Sheet (using scikit-learn). https://towardsdatascience.com/your-ultimate-data-mining-machine-learning-cheat-sheet-9fce3fa16
-
+* **Data-Science--Cheat-Sheet**. Data Science (Cheat Sheets). https://github.com/georgearun/Data-Science--Cheat-Sheet
 # Testing
 * PyTest for Machine Learning — a simple example-based tutorial. https://towardsdatascience.com/pytest-for-machine-learning-a-simple-example-based-tutorial-a3df3c58cf8
