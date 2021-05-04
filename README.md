@@ -78,6 +78,7 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **TensorFlow-Examples**: TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2). https://github.com/aymericdamien/TensorFlow-Examples
 * **Collection of tutorials**:
   * Autoencoder in TensorFlow 2: Beginner’s Guide:  https://learnopencv.com/autoencoder-in-tensorflow-2-beginners-guide/
+* **tensorflow-deep-learning**. All course materials for the Zero to Mastery Deep Learning with TensorFlow course. https://github.com/mrdbourke/tensorflow-deep-learning
 
 * **paz**: Hierarchical perception library in Python (for pose estimation, object detection, instance segmentation, keypoint estimation, face recognition). https://github.com/oarriaga/paz
    * Website: https://oarriaga.github.io/paz/
