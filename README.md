@@ -159,6 +159,8 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 
 * **awesome-mlops**: A curated list of references for MLOps. https://github.com/visenger/awesome-mlops
   *  Website: https://ml-ops.org/
+* **Reproducible Deep Learning**. Host repository for the "Reproducible Deep Learning" PhD course. https://github.com/sscardapane/reprodl2021
+  * Webiste: https://www.sscardapane.it/teaching/reproducibledl/
 
 ## Examples:
 * How I Build Machine Learning Apps in Hours: https://pub.towardsai.net/how-i-build-machine-learning-apps-in-hours-a1b1eaa642ed?gi=7cbefed10ea6
