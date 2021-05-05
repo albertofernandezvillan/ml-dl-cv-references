@@ -1,5 +1,9 @@
 
 # Quick and dirty notes (just for me)
+* TensorRT YOLO For Custom Trained Models (Updated). https://jkjung-avt.github.io/trt-yolo-custom-updated/
+   *  https://jkjung-avt.github.io/trt-yolov3-custom/
+   *  https://github.com/jkjung-avt/tensorrt_demos
+   *  https://gilberttanner.com/blog/jetson-nano-yolo-object-detection
 * 📚 OpenVINO Notebooks. https://github.com/openvinotoolkit/openvino_notebooks
 * cracking-the-data-science-interview: A Collection of Cheatsheets, Books, Questions, and Portfolio For DS/ML Interview Prep. https://github.com/khanhnamle1994/cracking-the-data-science-interview
 * machine-learning-systems-design. A booklet on machine learning systems design with exercises. https://github.com/chiphuyen/machine-learning-systems-design
