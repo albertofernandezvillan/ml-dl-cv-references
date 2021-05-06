@@ -55,8 +55,8 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **insightface**. Face Analysis Project on MXNet and PyTorch (2D and 3D Face Analysis Project). https://github.com/deepinsight/insightface
    * Website:  http://insightface.ai/
 * **vedadet**. A single stage object detection toolbox based on PyTorch. https://github.com/Media-Smart/vedadet
-
-
+* **mmdetection**. OpenMMLab Detection Toolbox and Benchmark. https://github.com/open-mmlab/mmdetection
+   * Website: https://mmdetection.readthedocs.io/en/latest/
 
 ## Pytorch helpers
 * **torchinfo**. Torchinfo provides information complementary to what is provided by print(your_model) in PyTorch, similar to Tensorflow's model.summary() API to view the visualization of the model. https://github.com/TylerYep/torchinfo
