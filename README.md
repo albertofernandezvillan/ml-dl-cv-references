@@ -211,6 +211,9 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
    * Website: https://voxel51.com/docs/fiftyone/
    * Example (1): Stop Wasting Time with PyTorch Datasets! (Guide to speeding up and streamlining your dataset workflows with FiftyOne). https://towardsdatascience.com/stop-wasting-time-with-pytorch-datasets-17cac2c22fa8
 
+# NVIDIA examples
+* **DeepLearningExamples**. NVIDIA Deep Learning Examples for Tensor Cores. https://github.com/NVIDIA/DeepLearningExamples
+
 
 
 # XXX Days of Machine and Deep Learning Code
