@@ -129,6 +129,9 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
   *  **scikit-learn-mooc**. scikit-learn course. https://github.com/INRIA/scikit-learn-mooc
      * Website: https://inria.github.io/scikit-learn-mooc/
 
+* **numpy-ml**: Machine learning, in numpy. https://github.com/ddbourgin/numpy-ml
+   * Website: https://numpy-ml.readthedocs.io/en/latest/
+
 
 ## Time series analysis
 *  **statsmodels**: statistical models, hypothesis tests, and data exploration. https://github.com/statsmodels/statsmodels. **Example of use**: *Time Series Decomposition In Python (Time Series Analysis Made Easy)*: https://towardsdatascience.com/time-series-decomposition-in-python-8acac385a5b2 
