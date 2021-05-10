@@ -57,6 +57,10 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **vedadet**. A single stage object detection toolbox based on PyTorch. https://github.com/Media-Smart/vedadet
 * **mmdetection**. OpenMMLab Detection Toolbox and Benchmark. https://github.com/open-mmlab/mmdetection
    * Website: https://mmdetection.readthedocs.io/en/latest/
+* **torchflare**. TorchFlare is a simple, beginner-friendly, and easy-to-use PyTorch Framework train your models effortlessly. https://github.com/Atharva-Phatak/torchflare
+   * Website: https://atharva-phatak.github.io/torchflare/
+
+
 
 ## Pytorch helpers
 * **torchinfo**. Torchinfo provides information complementary to what is provided by print(your_model) in PyTorch, similar to Tensorflow's model.summary() API to view the visualization of the model. https://github.com/TylerYep/torchinfo
