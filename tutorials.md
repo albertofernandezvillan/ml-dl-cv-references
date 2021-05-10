@@ -1,5 +1,9 @@
 
 # Quick and dirty notes (just for me)
+
+
+
+* Supercharge Your Machine Learning Experiments with PyCaret and Gradio. https://towardsdatascience.com/supercharge-your-machine-learning-experiments-with-pycaret-and-gradio-5932c61f80d9
 * 101 Data Science Interview Questions, Answers, and Key Concepts. https://online.datasciencedojo.com/blogs/101-data-science-interview-questions-answers-and-key-concepts?utm_content=165431632&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3740012
 * TensorRT YOLO For Custom Trained Models (Updated). https://jkjung-avt.github.io/trt-yolo-custom-updated/
    *  https://jkjung-avt.github.io/trt-yolov3-custom/
