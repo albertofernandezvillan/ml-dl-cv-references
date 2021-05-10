@@ -1,6 +1,8 @@
 
 # Quick and dirty notes (just for me)
 
+
+* EfficientDet meets Pytorch Lightning. https://www.kaggle.com/yassinealouini/efficientdet-meets-pytorch-lightning
 * Explainable AI Cheat Sheet. https://ex.pegg.io/
 * Imbalanced dataset image classification with PyTorch. https://marekpaulik.medium.com/imbalanced-dataset-image-classification-with-pytorch-6de864982eb1
 * Machine Learning Prediction in Real Time Using Docker and Python REST APIs with Flask. https://towardsdatascience.com/machine-learning-prediction-in-real-time-using-docker-and-python-rest-apis-with-flask-4235aa2395eb
