@@ -1,7 +1,7 @@
 
 # Quick and dirty notes (just for me)
 
-
+* Imbalanced dataset image classification with PyTorch. https://marekpaulik.medium.com/imbalanced-dataset-image-classification-with-pytorch-6de864982eb1
 * Machine Learning Prediction in Real Time Using Docker and Python REST APIs with Flask. https://towardsdatascience.com/machine-learning-prediction-in-real-time-using-docker-and-python-rest-apis-with-flask-4235aa2395eb
 * Supercharge Your Machine Learning Experiments with PyCaret and Gradio. https://towardsdatascience.com/supercharge-your-machine-learning-experiments-with-pycaret-and-gradio-5932c61f80d9
 * 101 Data Science Interview Questions, Answers, and Key Concepts. https://online.datasciencedojo.com/blogs/101-data-science-interview-questions-answers-and-key-concepts?utm_content=165431632&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3740012
