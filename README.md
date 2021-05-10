@@ -17,7 +17,7 @@ These are my quick and dirty notes trying to follow main Machine Learning, Compu
 * **awesome-deep-learning-materials**. Curated materials from Centroida's Deep Learning team. https://github.com/hggeorgiev/awesome-deep-learning-materials
 * **Awesome-Machine-Learning-DataScience_Resources**. Curated Collection of Online and Free Resources for serious learning of Machine Learning and Data Science.
 https://github.com/rohan-paul/Awesome-Machine-Learning-DataScience_Resources
-
+* **awesome-ml-courses**. Awesome free machine learning and AI courses with video lectures. https://github.com/luspr/awesome-ml-courses
 
 # Starting
 ## Python
