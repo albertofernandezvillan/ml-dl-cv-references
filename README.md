@@ -214,7 +214,8 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 # NVIDIA examples
 * **DeepLearningExamples**. NVIDIA Deep Learning Examples for Tensor Cores. https://github.com/NVIDIA/DeepLearningExamples
 
-
+# Tutorials
+* AI-related tutorials. Access any of them for free → https://towardsai.net/editorial
 
 # XXX Days of Machine and Deep Learning Code
 * **ThinamXx/300Days__MachineLearningDeepLearning**: Journey of 300DaysOfData in Machine Learning and Deep Learning. https://github.com/ThinamXx/300Days__MachineLearningDeepLearning
