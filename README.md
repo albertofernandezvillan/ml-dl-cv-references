@@ -132,6 +132,8 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **numpy-ml**: Machine learning, in numpy. https://github.com/ddbourgin/numpy-ml
    * Website: https://numpy-ml.readthedocs.io/en/latest/
 
+* **best-of-ml-python**. 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly. https://github.com/ml-tooling/best-of-ml-python
+
 
 ## Time series analysis
 *  **statsmodels**: statistical models, hypothesis tests, and data exploration. https://github.com/statsmodels/statsmodels. **Example of use**: *Time Series Decomposition In Python (Time Series Analysis Made Easy)*: https://towardsdatascience.com/time-series-decomposition-in-python-8acac385a5b2 
