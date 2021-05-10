@@ -72,6 +72,9 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **detectron2**: Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms. https://github.com/facebookresearch/detectron2
 * **mobile-vision**: Mobile Computer Vision @ Facebook. https://github.com/facebookresearch/mobile-vision
 * **hydra**: A framework for elegantly configuring complex applications. https://github.com/facebookresearch/hydra
+* **dino**: PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO. https://github.com/facebookresearch/dino
+
+
 
 
 # TensorFlow and Keras
