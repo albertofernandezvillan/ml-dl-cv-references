@@ -162,6 +162,11 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
   * Website: https://fastapi.tiangolo.com/
   * Example (1): How to deploy Machine Learning models as a Microservice using FastAPI. https://towardsdatascience.com/how-to-deploy-machine-learning-models-as-a-microservice-using-fastapi-b3a6002768af
 
+# In production
+* **Deep-Learning-in-Production**: In this repository, I will share some useful notes and references about deploying deep learning-based models in production. https://github.com/ahkarami/Deep-Learning-in-Production
+
+
+
 # MLOPS
 
 * **awesome-mlops**: A curated list of references for MLOps. https://github.com/visenger/awesome-mlops
