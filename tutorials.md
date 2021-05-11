@@ -1,7 +1,7 @@
 
 # Quick and dirty notes (just for me)
 
-
+* lightning-Covid19: A detector for covid-19 chest X-ray images using PyTorch Lightning (for educational purposes). https://pytorchlightning.github.io/lightning-Covid19/
 * EfficientDet meets Pytorch Lightning. https://www.kaggle.com/yassinealouini/efficientdet-meets-pytorch-lightning
 * Explainable AI Cheat Sheet. https://ex.pegg.io/
 * Imbalanced dataset image classification with PyTorch. https://marekpaulik.medium.com/imbalanced-dataset-image-classification-with-pytorch-6de864982eb1
