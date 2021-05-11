@@ -49,6 +49,10 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 *  **lightning-transformers**: Flexible interface for high performance research using SOTA Transformers leveraging Pytorch Lightning, Transformers, and Hydra.https://github.com/PyTorchLightning/lightning-transformers
 *  **lightning-flash**: Collection of tasks for fast prototyping, baselining, finetuning and solving problems with deep learning. https://github.com/PyTorchLightning/lightning-flash
    *  Example (1): Image Classification using Lightning Flash. https://medium.com/nerd-for-tech/image-classification-using-lightning-flash-e549b6c4285f
+* **lightning-bolts**: Toolbox of models, callbacks, and datasets for AI/ML researchers. Pretrained SOTA Deep Learning models, callbacks and more for research and production with PyTorch Lightning and PyTorch. https://github.com/PyTorchLightning/lightning-bolts
+   * Website: https://lightning-bolts.readthedocs.io/en/latest/
+
+
 
 ## Packages using Pytorch 
 * **nanodet**. ⚡Super fast and lightweight anchor-free object detection model. 🔥Only 1.8MB and run 97FPS on cellphone🔥. https://github.com/RangiLyu/nanodet
