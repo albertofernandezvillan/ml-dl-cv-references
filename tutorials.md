@@ -1,6 +1,6 @@
 
 # Quick and dirty notes (just for me)
-
+* Many examples for Deep Learning (Classification, SSD, Segmentation, Pose, face detection, face mask detection, face recognition, super resolution, age and gender estimation,...) on Raspberry Pi & Jetson Nano. https://github.com/Qengineering
 * lightning-Covid19: A detector for covid-19 chest X-ray images using PyTorch Lightning (for educational purposes). https://pytorchlightning.github.io/lightning-Covid19/
 * EfficientDet meets Pytorch Lightning. https://www.kaggle.com/yassinealouini/efficientdet-meets-pytorch-lightning
 * Explainable AI Cheat Sheet. https://ex.pegg.io/
