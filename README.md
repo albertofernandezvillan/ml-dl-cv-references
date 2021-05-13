@@ -192,6 +192,10 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * How to Dockerize Any Machine Learning Application: https://towardsdatascience.com/how-to-dockerize-any-machine-learning-application-f78db654c601. https://www.kdnuggets.com/2021/04/dockerize-any-machine-learning-application.html
 * Deploying Your Machine Learning Apps in 2021: https://towardsdatascience.com/deploying-your-machine-learning-apps-in-2021-a3471c049507
 
+# Dev tools for AI
+* **aim**. Aim — a super-easy way to record, search and compare 1000s of ML training runs. https://github.com/aimhubio/aim
+   * Website: https://aimstack.io/
+
 # Kaggle
 * **kaggle-solutions**. 🏅 Collection of Kaggle Solutions and Ideas 🏅. https://github.com/faridrashidi/kaggle-solutions
    * Website: https://farid.one/kaggle-solutions/
