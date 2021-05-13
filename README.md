@@ -195,6 +195,8 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 # Dev tools for AI
 * **aim**. Aim — a super-easy way to record, search and compare 1000s of ML training runs. https://github.com/aimhubio/aim
    * Website: https://aimstack.io/
+* **papermill**. 📚 Parameterize, execute, and analyze notebooks. https://github.com/nteract/papermill
+   * Website: https://papermill.readthedocs.io/en/latest/
 
 # Kaggle
 * **kaggle-solutions**. 🏅 Collection of Kaggle Solutions and Ideas 🏅. https://github.com/faridrashidi/kaggle-solutions
