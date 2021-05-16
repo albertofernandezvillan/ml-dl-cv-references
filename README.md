@@ -41,6 +41,10 @@ https://github.com/rohan-paul/Awesome-Machine-Learning-DataScience_Resources
 * **d2l-en**. Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 175 universities.https://github.com/d2l-ai/d2l-en
   * Webiste:  https://d2l.ai/
 * **pytorch-tutorial**. PyTorch Tutorial for Deep Learning Researchers. https://github.com/yunjey/pytorch-tutorial
+* **EffectivePyTorch**. PyTorch tutorials and best practices. https://github.com/vahidk/EffectivePyTorch
+   * Website: https://effectivemachinelearning.com/
+
+
 
 
 ## Pytorch Lightning
@@ -137,6 +141,9 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
    * Website: https://numpy-ml.readthedocs.io/en/latest/
 
 * **best-of-ml-python**. 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly. https://github.com/ml-tooling/best-of-ml-python
+* **ML-From-Scratch**. Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning. https://github.com/eriklindernoren/ML-From-Scratch
+
+
 
 
 ## Time series analysis
