@@ -193,6 +193,10 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
   *  Website: https://ml-ops.org/
 * **Reproducible Deep Learning**. Host repository for the "Reproducible Deep Learning" PhD course. https://github.com/sscardapane/reprodl2021
   * Webiste: https://www.sscardapane.it/teaching/reproducibledl/
+* **mlflow**. Open source platform for the machine learning lifecycle. https://github.com/mlflow/mlflow/
+   * Website. https://mlflow.org/
+      * Example: Easy MLOps with PyCaret + MLflow. https://www.kdnuggets.com/2021/05/easy-mlops-pycaret-mlflow.html
+
 
 ## Examples:
 * How I Build Machine Learning Apps in Hours: https://pub.towardsai.net/how-i-build-machine-learning-apps-in-hours-a1b1eaa642ed?gi=7cbefed10ea6
