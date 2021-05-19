@@ -1,8 +1,7 @@
 
 # Quick and dirty notes (just for me)
 
-
-
+* PyTorchVideo: A deep learning library for video understanding: https://ai.facebook.com/blog/pytorchvideo-a-deep-learning-library-for-video-understanding/
 * Some examples of face & facial processing: https://github.com/MaharshSuryawala/Face-Detection-and-Facial-Expression-Recognition, https://github.com/misbah4064/drowsinessDetector/blob/master/drowsinessDetector.py
 * Many examples for Deep Learning (Classification, SSD, Segmentation, Pose, face detection, face mask detection, face recognition, super resolution, age and gender estimation,...) on Raspberry Pi & Jetson Nano. https://github.com/Qengineering
 * lightning-Covid19: A detector for covid-19 chest X-ray images using PyTorch Lightning (for educational purposes). https://pytorchlightning.github.io/lightning-Covid19/
