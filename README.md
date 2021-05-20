@@ -43,6 +43,14 @@ https://github.com/rohan-paul/Awesome-Machine-Learning-DataScience_Resources
 * **pytorch-tutorial**. PyTorch Tutorial for Deep Learning Researchers. https://github.com/yunjey/pytorch-tutorial
 * **EffectivePyTorch**. PyTorch tutorials and best practices. https://github.com/vahidk/EffectivePyTorch
    * Website: https://effectivemachinelearning.com/
+* **Deep-Tutorials-for-PyTorch**. In-depth tutorials for implementing deep learning models on your own with PyTorch. https://github.com/sgrvinod/Deep-Tutorials-for-PyTorch
+* **a-PyTorch-Tutorial-to-Object-Detection**. SSD: Single Shot MultiBox Detector | a PyTorch Tutorial to Object Detection. https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection
+* **YOLO_v3_tutorial_from_scratch**. Accompanying code for Paperspace tutorial series "How to Implement YOLO v3 Object Detector from Scratch". https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
+
+
+
+
+
 
 
 
@@ -142,6 +150,11 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 
 * **best-of-ml-python**. 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly. https://github.com/ml-tooling/best-of-ml-python
 * **ML-From-Scratch**. Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning. https://github.com/eriklindernoren/ML-From-Scratch
+* **Machine-Learning-Collection**. A resource for learning about ML, DL, PyTorch and TensorFlow. https://github.com/aladdinpersson/Machine-Learning-Collection
+* **ML-course**. A machine learning course using Python, Jupyter Notebooks, and OpenML. https://github.com/ML-course/master
+   * Webiste: https://ml-course.github.io/
+
+
 
 
 
