@@ -1,6 +1,11 @@
 
 # Quick and dirty notes (just for me)
 
+* Video Understanding with PyTorch. https://towardsdatascience.com/video-understanding-made-simple-with-pytorch-video-and-lightning-flash-c7d65583c37e
+* The Fastest Way To Build Computer Vision Applications. https://datature.io/
+* Training an Instance Segmentation Model with Custom Data. https://datature.io/blog/training-an-instance-segmentation-model
+* Machine learning and recommender systems using your own Spotify data. https://towardsdatascience.com/machine-learning-and-recommender-systems-using-your-own-spotify-data-4918d80632e3
+* DINO: Emerging Properties in Self-Supervised Vision Transformers Summary. https://towardsdatascience.com/dino-emerging-properties-in-self-supervised-vision-transformers-summary-ab91df82cc3c
 * AI Explorables: Big ideas in machine learning, simply explained. https://pair.withgoogle.com/explorables/
 * Object Detection With Mask R-CNN. https://ml-showcase.paperspace.com/projects/object-detection-with-mask-r-cnn
 * Data Version Control With Python and DVC. https://realpython.com/python-data-version-control/
