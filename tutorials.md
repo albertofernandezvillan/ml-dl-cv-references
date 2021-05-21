@@ -1,6 +1,9 @@
 
 # Quick and dirty notes (just for me)
 
+* AI Explorables: Big ideas in machine learning, simply explained. https://pair.withgoogle.com/explorables/
+* Object Detection With Mask R-CNN. https://ml-showcase.paperspace.com/projects/object-detection-with-mask-r-cnn
+* Data Version Control With Python and DVC. https://realpython.com/python-data-version-control/
 * PyTorchVideo: A deep learning library for video understanding: https://ai.facebook.com/blog/pytorchvideo-a-deep-learning-library-for-video-understanding/
 * Some examples of face & facial processing: https://github.com/MaharshSuryawala/Face-Detection-and-Facial-Expression-Recognition, https://github.com/misbah4064/drowsinessDetector/blob/master/drowsinessDetector.py
 * Many examples for Deep Learning (Classification, SSD, Segmentation, Pose, face detection, face mask detection, face recognition, super resolution, age and gender estimation,...) on Raspberry Pi & Jetson Nano. https://github.com/Qengineering
