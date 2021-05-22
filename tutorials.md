@@ -1,5 +1,6 @@
 
 # Quick and dirty notes (just for me)
+* 😷SIIM Covid-19: Box Detect & .dcm metadata. https://www.kaggle.com/andradaolteanu/siim-covid-19-box-detect-dcm-metadata
 * First Steps With PySpark and Big Data Processing. https://realpython.com/pyspark-intro/
 * License Plate Detection and OCR using Roboflow Inference API. https://blog.roboflow.com/license-plate-detection-and-ocr/
 * Accelerating AI Modules for ROS and ROS 2 on NVIDIA Jetson Platform. https://developer.nvidia.com/blog/accelerating-ai-modules-for-ros-and-ros-2-on-jetson/?ncid=em-news-556766&mkt_tok=MTU2LU9GTi03NDIAAAF9LtuWhJI-ZuNi4bIm1SfisxgeHCoK51-PinTjEe2HWZjPfTzkBLF6k2adyj_FbhPFXL6BI9XEEOGYL1nvqLVy2InL9mfvOtVEy4-K5NpdOeaml0Ux#cid=em07_em-news_en-us
