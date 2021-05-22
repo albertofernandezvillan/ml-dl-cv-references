@@ -332,6 +332,12 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **ds-cheatsheets**. List of Data Science Cheatsheets to rule the world. https://github.com/FavioVazquez/ds-cheatsheets
 * Your Ultimate Data Mining & Machine Learning Cheat Sheet (using scikit-learn). https://towardsdatascience.com/your-ultimate-data-mining-machine-learning-cheat-sheet-9fce3fa16
 * **Data-Science--Cheat-Sheet**. Data Science (Cheat Sheets). https://github.com/georgearun/Data-Science--Cheat-Sheet
+* **Artificial Intelligence cheatsheets**. VIP cheatsheets for Stanford's CS 221 Artificial Intelligence. https://github.com/afshinea/stanford-cs-221-artificial-intelligence
+   * Webiste: https://stanford.edu/~shervine/teaching/cs-221/
+* **Machine Learning cheatsheets**. VIP cheatsheets for Stanford's CS 229 Machine Learning. https://github.com/afshinea/stanford-cs-229-machine-learning.
+   * Website: https://stanford.edu/~shervine/teaching/cs-229/
+* **Deep Learning cheatsheets**. VIP cheatsheets for Stanford's CS 230 Deep Learning. https://github.com/afshinea/stanford-cs-230-deep-learning
+   * Website:  https://stanford.edu/~shervine/teaching/cs-230/
 
 # Testing
 * **pytest**. The pytest framework makes it easy to write small tests, yet scales to support complex functional testing. https://github.com/pytest-dev/pytest
