@@ -150,6 +150,12 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * 130 Machine Learning Projects Solved and Explained: https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392
 * **ML-ProjectYard**. This repo consists of multiple machine learning based projects with frontend. This is the one stop open-source destination for all the projects based on Machine Learning, Deep Learning, NLP,Computer Vision and everything includes frontend and backend!. https://github.com/ashishsahu1/ML-ProjectYard
 
+## Feature selection
+* **featurewiz**. Use advanced feature engineering strategies and select the best features from your data set fast with a single line of code. Featurewiz is a new python library for creating and selecting the best features in your data set fast!.  https://github.com/AutoViML/featurewiz
+   * Example: Automate your Feature Selection Workflow in one line of Python code. https://towardsdatascience.com/automate-your-feature-selection-workflow-in-one-line-of-python-code-3d4f23b7e2c4
+
+
+
 
 ## Machine learning EDA
 ### Some examples:
