@@ -57,6 +57,7 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
    *  Example (1): Image Classification using Lightning Flash. https://medium.com/nerd-for-tech/image-classification-using-lightning-flash-e549b6c4285f
 * **lightning-bolts**: Toolbox of models, callbacks, and datasets for AI/ML researchers. Pretrained SOTA Deep Learning models, callbacks and more for research and production with PyTorch Lightning and PyTorch. https://github.com/PyTorchLightning/lightning-bolts
    * Website: https://lightning-bolts.readthedocs.io/en/latest/
+* 4 PyTorch Lightning Community Computer Vision Examples To Inspire Your Next Project!. https://devblog.pytorchlightning.ai/4-pytorch-lightning-community-computer-vision-examples-to-inspire-your-next-project-70a5e3f10c8
 
 ## Packages using Pytorch 
 * **nanodet**. ⚡Super fast and lightweight anchor-free object detection model. 🔥Only 1.8MB and run 97FPS on cellphone🔥. https://github.com/RangiLyu/nanodet
