@@ -11,6 +11,7 @@
 * PyTorchVideo: A deep learning library for video understanding. https://ai.facebook.com/blog/pytorchvideo-a-deep-learning-library-for-video-understanding/
 * Video Understanding with PyTorch. https://towardsdatascience.com/video-understanding-made-simple-with-pytorch-video-and-lightning-flash-c7d65583c37e
 * Using PyTorchVideo for efficient video understanding. https://towardsdatascience.com/using-pytorchvideo-for-efficient-video-understanding-24d3cd99bc3c
+* 5 Steps to Training your first Video Classifier in a Flash. https://devblog.pytorchlightning.ai/5-steps-to-training-your-first-video-classifier-in-a-flash-dd11d472fded
 * The Fastest Way To Build Computer Vision Applications. https://datature.io/
 * Training an Instance Segmentation Model with Custom Data. https://datature.io/blog/training-an-instance-segmentation-model
 * Machine learning and recommender systems using your own Spotify data. https://towardsdatascience.com/machine-learning-and-recommender-systems-using-your-own-spotify-data-4918d80632e3
