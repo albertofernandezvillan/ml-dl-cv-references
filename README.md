@@ -159,9 +159,12 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 
 
 
-## Time series analysis
+## Time series analysis & forecasting
 *  **statsmodels**: statistical models, hypothesis tests, and data exploration. https://github.com/statsmodels/statsmodels. **Example of use**: *Time Series Decomposition In Python (Time Series Analysis Made Easy)*: https://towardsdatascience.com/time-series-decomposition-in-python-8acac385a5b2 
 *  Multiple Time Series Forecasting with PyCaret: https://towardsdatascience.com/multiple-time-series-forecasting-with-pycaret-bc0a779a22fe
+*  **greykite**. A flexible, intuitive and fast forecasting library. https://github.com/linkedin/greykite
+
+
 
 ## Machine learning examples
 * 130 Machine Learning Projects Solved and Explained: https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392
