@@ -230,7 +230,14 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **nbdime**: Tools for diffing and merging of Jupyter notebooks. https://github.com/jupyter/nbdime
 * **nbQA**: Run any standard Python code quality tool on a Jupyter Notebook. https://github.com/nbQA-dev/nbQA
 * **jupyter-nbrequirements**: Dependency management and optimization in Jupyter Notebooks. https://github.com/thoth-station/jupyter-nbrequirements
+* **watermark**. An IPython magic extension for printing date and time stamps, version numbers, and hardware information. https://github.com/rasbt/watermark
 
+# Managing virtual environments
+* **pipenv**. Python Development Workflow for Humans. https://github.com/pypa/pipenv
+
+# Project structure
+* **cookiecutter-data-science**. A logical, reasonably standardized, but flexible project structure for doing and sharing data science work. https://github.com/drivendata/cookiecutter-data-science
+   * Webiste: http://drivendata.github.io/cookiecutter-data-science/
 
 
 
@@ -325,5 +332,7 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **ds-cheatsheets**. List of Data Science Cheatsheets to rule the world. https://github.com/FavioVazquez/ds-cheatsheets
 * Your Ultimate Data Mining & Machine Learning Cheat Sheet (using scikit-learn). https://towardsdatascience.com/your-ultimate-data-mining-machine-learning-cheat-sheet-9fce3fa16
 * **Data-Science--Cheat-Sheet**. Data Science (Cheat Sheets). https://github.com/georgearun/Data-Science--Cheat-Sheet
+
 # Testing
-* PyTest for Machine Learning — a simple example-based tutorial. https://towardsdatascience.com/pytest-for-machine-learning-a-simple-example-based-tutorial-a3df3c58cf8
+* **pytest**. The pytest framework makes it easy to write small tests, yet scales to support complex functional testing. https://github.com/pytest-dev/pytest
+   * PyTest for Machine Learning — a simple example-based tutorial. https://towardsdatascience.com/pytest-for-machine-learning-a-simple-example-based-tutorial-a3df3c58cf8
