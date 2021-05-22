@@ -186,6 +186,10 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 
 # In production
 * **Deep-Learning-in-Production**: In this repository, I will share some useful notes and references about deploying deep learning-based models in production. https://github.com/ahkarami/Deep-Learning-in-Production
+* **tfx**. TFX is an end-to-end platform for deploying production ML pipelines. When you’re ready to move your models from research to production, use TFX to create and manage a production pipeline. https://github.com/tensorflow/tfx.
+   * Website: https://www.tensorflow.org/tfx
+
+
 
 
 # MLOPS
@@ -199,6 +203,7 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
       * Example: Easy MLOps with PyCaret + MLflow. https://www.kdnuggets.com/2021/05/easy-mlops-pycaret-mlflow.html
 * **pachyderm**. Reproducible Data Science at Scale!. Data Versioning, Data Pipelines, and Data Lineage. Tool for version-controlled, automated, end-to-end data pipelines for data science. https://github.com/pachyderm/pachyderm
    * Website: https://www.pachyderm.com/
+
 
 ## Examples:
 * How I Build Machine Learning Apps in Hours: https://pub.towardsai.net/how-i-build-machine-learning-apps-in-hours-a1b1eaa642ed?gi=7cbefed10ea6
