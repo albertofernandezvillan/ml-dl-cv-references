@@ -170,6 +170,9 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 
 ## Machine learning examples
 * 130 Machine Learning Projects Solved and Explained: https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392
+* **ML-ProjectYard**. This repo consists of multiple machine learning based projects with frontend. This is the one stop open-source destination for all the projects based on Machine Learning, Deep Learning, NLP,Computer Vision and everything includes frontend and backend!. https://github.com/ashishsahu1/ML-ProjectYard
+
+
 
 ## Machine learning EDA
 ### Some examples:
