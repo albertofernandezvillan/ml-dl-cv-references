@@ -79,6 +79,8 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 ## facebookresearch
 
 *  **pytorchvideo**: A deep learning library for video understanding research. PyTorchVideo is developed using PyTorch and supports different deeplearning video components like video models, video datasets, and video-specific transforms. https://github.com/facebookresearch/pytorchvideo
+*  **ClassyVision**. An end-to-end PyTorch framework for image and video classification. https://github.com/facebookresearch/ClassyVision
+   * introduction: https://ai.facebook.com/blog/a-new-framework-for-large-scale-training-of-state-of-the-art-visual-classification-models/
 * **detectron2**: Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms. https://github.com/facebookresearch/detectron2
 * **mobile-vision**: Mobile Computer Vision @ Facebook. https://github.com/facebookresearch/mobile-vision
 * **hydra**: A framework for elegantly configuring complex applications. https://github.com/facebookresearch/hydra
