@@ -148,6 +148,8 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **numpy-ml**: Machine learning, in numpy. https://github.com/ddbourgin/numpy-ml
    * Website: https://numpy-ml.readthedocs.io/en/latest/
 
+* **vaex**: Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualize and explore big tabular data at a billion rows per second 🚀. Vaex is a high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. https://github.com/vaexio/vaex
+
 * **best-of-ml-python**. 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly. https://github.com/ml-tooling/best-of-ml-python
 * **ML-From-Scratch**. Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning. https://github.com/eriklindernoren/ML-From-Scratch
 * **Machine-Learning-Collection**. A resource for learning about ML, DL, PyTorch and TensorFlow. https://github.com/aladdinpersson/Machine-Learning-Collection
