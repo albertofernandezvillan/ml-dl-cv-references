@@ -200,8 +200,6 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **mltrace**. Coarse-grained lineage and tracing for machine learning pipelines. https://github.com/loglabs/mltrace
 
 
-
-
 ## Examples:
 * How I Build Machine Learning Apps in Hours: https://pub.towardsai.net/how-i-build-machine-learning-apps-in-hours-a1b1eaa642ed?gi=7cbefed10ea6
 * How to Dockerize Any Machine Learning Application: https://towardsdatascience.com/how-to-dockerize-any-machine-learning-application-f78db654c601. https://www.kdnuggets.com/2021/04/dockerize-any-machine-learning-application.html
@@ -252,6 +250,11 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **fiftyone**: The open-source tool for building high-quality datasets and computer vision models. https://github.com/voxel51/fiftyone
    * Website: https://voxel51.com/docs/fiftyone/
    * Example (1): Stop Wasting Time with PyTorch Datasets! (Guide to speeding up and streamlining your dataset workflows with FiftyOne). https://towardsdatascience.com/stop-wasting-time-with-pytorch-datasets-17cac2c22fa8
+ 
+* **knowyourdata**. A tool to help researchers and product teams understand datasets with the goal of improving data quality, and mitigating fairness and bias issues. Know Your Data helps researchers, engineers, product teams, and decision makers understand datasets with the goal of improving data quality, and helping mitigate fairness and bias issues. https://github.com/PAIR-code/knowyourdata. 
+   * Website: https://knowyourdata.withgoogle.com/
+
+
 
 # NVIDIA examples
 * **DeepLearningExamples**. NVIDIA Deep Learning Examples for Tensor Cores. https://github.com/NVIDIA/DeepLearningExamples
