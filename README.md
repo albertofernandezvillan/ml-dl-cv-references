@@ -203,12 +203,12 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
    * Website: https://aimstack.io/
 * **papermill**. 📚 Parameterize, execute, and analyze notebooks. https://github.com/nteract/papermill
    * Website: https://papermill.readthedocs.io/en/latest/
-
 ## Tools for working with Notebooks
 * **nbdime**: Tools for diffing and merging of Jupyter notebooks. https://github.com/jupyter/nbdime
 * **nbQA**: Run any standard Python code quality tool on a Jupyter Notebook. https://github.com/nbQA-dev/nbQA
 * **jupyter-nbrequirements**: Dependency management and optimization in Jupyter Notebooks. https://github.com/thoth-station/jupyter-nbrequirements
 * **watermark**. An IPython magic extension for printing date and time stamps, version numbers, and hardware information. https://github.com/rasbt/watermark
+* **10 Useful Jupyter Notebook Extensions for a Data Scientist (Qgrid, itables, jupyter-datatables, ipyvolume, bqplot, livelossplot, TensorWatch, Polyaxon, handcalcs, jupyternotify)**. https://towardsdatascience.com/10-useful-jupyter-notebook-extensions-for-a-data-scientist-bd4cb472c25e
 
 # Managing virtual environments
 * **pipenv**. Python Development Workflow for Humans. https://github.com/pypa/pipenv
