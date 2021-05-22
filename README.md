@@ -19,6 +19,9 @@ These are my quick and dirty notes trying to follow main Machine Learning, Compu
 https://github.com/rohan-paul/Awesome-Machine-Learning-DataScience_Resources
 * **awesome-ml-courses**. Awesome free machine learning and AI courses with video lectures. https://github.com/luspr/awesome-ml-courses
 * **awesome-model-quantization**. A list of papers, docs, codes about model quantization. This repo is aimed to provide the info for model quantization research, we are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo. https://github.com/htqin/awesome-model-quantization
+* **awesome-hand-pose-estimation**. Awesome work on hand pose estimation/tracking. https://github.com/xinghaochen/awesome-hand-pose-estimation
+
+
 
 
 
