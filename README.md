@@ -47,14 +47,6 @@ https://github.com/rohan-paul/Awesome-Machine-Learning-DataScience_Resources
 * **a-PyTorch-Tutorial-to-Object-Detection**. SSD: Single Shot MultiBox Detector | a PyTorch Tutorial to Object Detection. https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection
 * **YOLO_v3_tutorial_from_scratch**. Accompanying code for Paperspace tutorial series "How to Implement YOLO v3 Object Detector from Scratch". https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
 
-
-
-
-
-
-
-
-
 ## Pytorch Lightning
 Pytorch Lightning main repo: https://github.com/PyTorchLightning 
 *  **pytorch-lightning**: The lightweight PyTorch wrapper for high-performance AI research. https://github.com/PyTorchLightning/pytorch-lightning
@@ -63,8 +55,6 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
    *  Example (1): Image Classification using Lightning Flash. https://medium.com/nerd-for-tech/image-classification-using-lightning-flash-e549b6c4285f
 * **lightning-bolts**: Toolbox of models, callbacks, and datasets for AI/ML researchers. Pretrained SOTA Deep Learning models, callbacks and more for research and production with PyTorch Lightning and PyTorch. https://github.com/PyTorchLightning/lightning-bolts
    * Website: https://lightning-bolts.readthedocs.io/en/latest/
-
-
 
 ## Packages using Pytorch 
 * **nanodet**. ⚡Super fast and lightweight anchor-free object detection model. 🔥Only 1.8MB and run 97FPS on cellphone🔥. https://github.com/RangiLyu/nanodet
@@ -76,11 +66,8 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **torchflare**. TorchFlare is a simple, beginner-friendly, and easy-to-use PyTorch Framework train your models effortlessly. https://github.com/Atharva-Phatak/torchflare
    * Website: https://atharva-phatak.github.io/torchflare/
 
-
-
 ## Pytorch helpers
 * **torchinfo**. Torchinfo provides information complementary to what is provided by print(your_model) in PyTorch, similar to Tensorflow's model.summary() API to view the visualization of the model. https://github.com/TylerYep/torchinfo
-
 
 ## YOLO
 
@@ -93,8 +80,6 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **mobile-vision**: Mobile Computer Vision @ Facebook. https://github.com/facebookresearch/mobile-vision
 * **hydra**: A framework for elegantly configuring complex applications. https://github.com/facebookresearch/hydra
 * **dino**: PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO. https://github.com/facebookresearch/dino
-
-
 
 
 # TensorFlow and Keras
@@ -114,12 +99,9 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
    * Website: https://optuna.org/
    * Collection of unofficial optuna examples (scikit-learn, pytorch, tensorflow, xgboost,...) https://github.com/toshihikoyanase/optuna-examples
 
-
-
 # Edge computing
 
 * **tinyml-papers-and-projects**: This is a list of interesting papers and projects about TinyML. https://github.com/gigwegbe/tinyml-papers-and-projects
-
 
 ## Examples
 * Deploy YOLOv5 to Jetson Xavier NX at 30FPS: https://blog.roboflow.com/deploy-yolov5-to-jetson-nx/. First, we have to train YOLO V5 (https://models.roboflow.com/object-detection/yolov5)
@@ -156,22 +138,14 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **ML-course**. A machine learning course using Python, Jupyter Notebooks, and OpenML. https://github.com/ML-course/master
    * Webiste: https://ml-course.github.io/
 
-
-
-
-
-
 ## Time series analysis & forecasting
 *  **statsmodels**: statistical models, hypothesis tests, and data exploration. https://github.com/statsmodels/statsmodels. **Example of use**: *Time Series Decomposition In Python (Time Series Analysis Made Easy)*: https://towardsdatascience.com/time-series-decomposition-in-python-8acac385a5b2 
 *  Multiple Time Series Forecasting with PyCaret: https://towardsdatascience.com/multiple-time-series-forecasting-with-pycaret-bc0a779a22fe
 *  **greykite**. A flexible, intuitive and fast forecasting library. https://github.com/linkedin/greykite
 
-
-
 ## Machine learning examples
 * 130 Machine Learning Projects Solved and Explained: https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392
 * **ML-ProjectYard**. This repo consists of multiple machine learning based projects with frontend. This is the one stop open-source destination for all the projects based on Machine Learning, Deep Learning, NLP,Computer Vision and everything includes frontend and backend!. https://github.com/ashishsahu1/ML-ProjectYard
-
 
 
 ## Machine learning EDA
@@ -207,7 +181,6 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **Deep-Learning-in-Production**: In this repository, I will share some useful notes and references about deploying deep learning-based models in production. https://github.com/ahkarami/Deep-Learning-in-Production
 
 
-
 # MLOPS
 
 * **awesome-mlops**: A curated list of references for MLOps. https://github.com/visenger/awesome-mlops
@@ -217,7 +190,9 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **mlflow**. Open source platform for the machine learning lifecycle. https://github.com/mlflow/mlflow/
    * Website. https://mlflow.org/
       * Example: Easy MLOps with PyCaret + MLflow. https://www.kdnuggets.com/2021/05/easy-mlops-pycaret-mlflow.html
- 
+* **pachyderm**. Reproducible Data Science at Scale!. Data Versioning, Data Pipelines, and Data Lineage. Tool for version-controlled, automated, end-to-end data pipelines for data science. https://github.com/pachyderm/pachyderm
+   * Website: https://www.pachyderm.com/
+
 ## Examples:
 * How I Build Machine Learning Apps in Hours: https://pub.towardsai.net/how-i-build-machine-learning-apps-in-hours-a1b1eaa642ed?gi=7cbefed10ea6
 * How to Dockerize Any Machine Learning Application: https://towardsdatascience.com/how-to-dockerize-any-machine-learning-application-f78db654c601. https://www.kdnuggets.com/2021/04/dockerize-any-machine-learning-application.html
