@@ -22,9 +22,6 @@ https://github.com/rohan-paul/Awesome-Machine-Learning-DataScience_Resources
 * **awesome-hand-pose-estimation**. Awesome work on hand pose estimation/tracking. https://github.com/xinghaochen/awesome-hand-pose-estimation
 
 
-
-
-
 # Starting
 ## Python
 * https://www.learnpython.org/
@@ -32,7 +29,6 @@ https://github.com/rohan-paul/Awesome-Machine-Learning-DataScience_Resources
 * https://pythonsimplified.com/
 * https://www.python.org/about/gettingstarted/
 * *TheAlgorithms/Python*. All Algorithms implemented in Python. https://github.com/TheAlgorithms/Python
-
 
 
 ## Examples
@@ -190,8 +186,6 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
    * Website: https://www.tensorflow.org/tfx
 
 
-
-
 # MLOPS
 
 * **awesome-mlops**: A curated list of references for MLOps. https://github.com/visenger/awesome-mlops
@@ -203,6 +197,9 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
       * Example: Easy MLOps with PyCaret + MLflow. https://www.kdnuggets.com/2021/05/easy-mlops-pycaret-mlflow.html
 * **pachyderm**. Reproducible Data Science at Scale!. Data Versioning, Data Pipelines, and Data Lineage. Tool for version-controlled, automated, end-to-end data pipelines for data science. https://github.com/pachyderm/pachyderm
    * Website: https://www.pachyderm.com/
+* **mltrace**. Coarse-grained lineage and tracing for machine learning pipelines. https://github.com/loglabs/mltrace
+
+
 
 
 ## Examples:
