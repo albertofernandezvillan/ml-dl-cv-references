@@ -1,5 +1,6 @@
 
 # Quick and dirty notes (just for me)
+* A Gentle Introduction to Audio Classification With Tensorflow.  https://pub.towardsai.net/a-gentle-introduction-to-audio-classification-with-tensorflow-c469cb0be6f5
 * PyTorch Trainer Script + Automatic Mixed Precision using EfficientNet V2!. https://www.kaggle.com/heyytanay/pytorch-trainer-amp-efficientnetv2-kfolds
 * 😷SIIM Covid-19: Box Detect & .dcm metadata. https://www.kaggle.com/andradaolteanu/siim-covid-19-box-detect-dcm-metadata
 * First Steps With PySpark and Big Data Processing. https://realpython.com/pyspark-intro/
