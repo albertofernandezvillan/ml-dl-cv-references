@@ -1,5 +1,6 @@
 
 # Quick and dirty notes (just for me)
+* Accelerating AI Modules for ROS and ROS 2 on NVIDIA Jetson Platform. https://developer.nvidia.com/blog/accelerating-ai-modules-for-ros-and-ros-2-on-jetson/?ncid=em-news-556766&mkt_tok=MTU2LU9GTi03NDIAAAF9LtuWhJI-ZuNi4bIm1SfisxgeHCoK51-PinTjEe2HWZjPfTzkBLF6k2adyj_FbhPFXL6BI9XEEOGYL1nvqLVy2InL9mfvOtVEy4-K5NpdOeaml0Ux#cid=em07_em-news_en-us
 * Node Classification with Graph Neural Networks. https://keras.io/examples/graph/gnn_citations/
 * PyTorchVideo: A deep learning library for video understanding. https://ai.facebook.com/blog/pytorchvideo-a-deep-learning-library-for-video-understanding/
 * Video Understanding with PyTorch. https://towardsdatascience.com/video-understanding-made-simple-with-pytorch-video-and-lightning-flash-c7d65583c37e
