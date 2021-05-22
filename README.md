@@ -214,8 +214,7 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **mlflow**. Open source platform for the machine learning lifecycle. https://github.com/mlflow/mlflow/
    * Website. https://mlflow.org/
       * Example: Easy MLOps with PyCaret + MLflow. https://www.kdnuggets.com/2021/05/easy-mlops-pycaret-mlflow.html
-
-
+ 
 ## Examples:
 * How I Build Machine Learning Apps in Hours: https://pub.towardsai.net/how-i-build-machine-learning-apps-in-hours-a1b1eaa642ed?gi=7cbefed10ea6
 * How to Dockerize Any Machine Learning Application: https://towardsdatascience.com/how-to-dockerize-any-machine-learning-application-f78db654c601. https://www.kdnuggets.com/2021/04/dockerize-any-machine-learning-application.html
@@ -226,6 +225,14 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
    * Website: https://aimstack.io/
 * **papermill**. 📚 Parameterize, execute, and analyze notebooks. https://github.com/nteract/papermill
    * Website: https://papermill.readthedocs.io/en/latest/
+
+## Tools for working with Notebooks
+* **nbdime**: Tools for diffing and merging of Jupyter notebooks. https://github.com/jupyter/nbdime
+* **nbQA**: Run any standard Python code quality tool on a Jupyter Notebook. https://github.com/nbQA-dev/nbQA
+* **jupyter-nbrequirements**: Dependency management and optimization in Jupyter Notebooks. https://github.com/thoth-station/jupyter-nbrequirements
+
+
+
 
 # Kaggle
 * **kaggle-solutions**. 🏅 Collection of Kaggle Solutions and Ideas 🏅. https://github.com/faridrashidi/kaggle-solutions
