@@ -1,5 +1,7 @@
 
 # Quick and dirty notes (just for me)
+
+* Non Maximum Suppression: Theory and Implementation in PyTorch: https://learnopencv.com/non-maximum-suppression-theory-and-implementation-in-pytorch/
 * Model Deployment using Flask and PyCaret: https://sagarjiyani3010.medium.com/model-deployment-using-flask-and-pycaret-b09df0a33635, https://github.com/SagarJiyani3010/House-Price-Prediction-Deployment
 * A Gentle Introduction to Audio Classification With Tensorflow.  https://pub.towardsai.net/a-gentle-introduction-to-audio-classification-with-tensorflow-c469cb0be6f5
 * PyTorch Trainer Script + Automatic Mixed Precision using EfficientNet V2!. https://www.kaggle.com/heyytanay/pytorch-trainer-amp-efficientnetv2-kfolds
