@@ -269,7 +269,8 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 
 * **deep-learning-model-convertor**. The convertor/conversion of deep learning models for different deep learning frameworks/softwares. https://github.com/ysh329/deep-learning-model-convertor
 
-
+# ML solutions
+* **mediapipe**. Cross-platform, customizable ML solutions for live and streaming media. https://github.com/google/mediapipe
 
 # NVIDIA examples
 * **DeepLearningExamples**. NVIDIA Deep Learning Examples for Tensor Cores. https://github.com/NVIDIA/DeepLearningExamples
