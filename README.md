@@ -311,11 +311,11 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **yolov5-face**. YOLO5Face: Why Reinventing a Face Detector. https://github.com/deepcam-cn/yolov5-face
 * **siam-mot**. SiamMOT: Siamese Multi-Object Tracking. https://github.com/amazon-research/siam-mot
 
-
-
 ## Semantic segmentation
 * HyperSeg: Patch-wise Hypernetwork for Real-time Semantic Segmentation. HyperSeg - Official PyTorch Implementation: https://github.com/YuvalNirkin/hyperseg
 
+# Geospatial analysis
+* **leafmap**. A Python package for geospatial analysis and interactive mapping with minimal coding in a Jupyter environment. https://github.com/giswqs/leafmap
 
 # Datasets:
 * **paperswithcode datasets**: https://paperswithcode.com/datasets
