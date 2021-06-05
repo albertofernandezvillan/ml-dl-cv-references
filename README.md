@@ -341,3 +341,6 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 # Testing
 * **pytest**. The pytest framework makes it easy to write small tests, yet scales to support complex functional testing. https://github.com/pytest-dev/pytest
    * PyTest for Machine Learning — a simple example-based tutorial. https://towardsdatascience.com/pytest-for-machine-learning-a-simple-example-based-tutorial-a3df3c58cf8
+
+# Docker images
+* **tirthajyoti/ai-ds**: This is an image of a minimal Data Science stack with Python 3.8.5 on top of Ubuntu 20.04 LTS minimal image. https://hub.docker.com/r/tirthajyoti/ai-ds   
