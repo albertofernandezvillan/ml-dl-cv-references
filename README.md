@@ -68,6 +68,7 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
    * Website: https://mmdetection.readthedocs.io/en/latest/
 * **torchflare**. TorchFlare is a simple, beginner-friendly, and easy-to-use PyTorch Framework train your models effortlessly. https://github.com/Atharva-Phatak/torchflare
    * Website: https://atharva-phatak.github.io/torchflare/
+* **pytorch-image-models**: PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more. https://github.com/rwightman/pytorch-image-models
 
 ## Pytorch helpers
 * **torchinfo**. Torchinfo provides information complementary to what is provided by print(your_model) in PyTorch, similar to Tensorflow's model.summary() API to view the visualization of the model. https://github.com/TylerYep/torchinfo
