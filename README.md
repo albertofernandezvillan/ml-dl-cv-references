@@ -302,6 +302,7 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
    * article: https://towardsdatascience.com/indian-car-license-plate-detection-using-yolo-v5-ae2574578175
 * AI, Machine Learning and Analytics applied to Sports. https://github.com/fpretto/sports_analytics
    * article: https://towardsdatascience.com/squash-analytics-a-computer-vision-and-deep-learning-approach-d93087d0f298
+* **norfair**. Lightweight Python library for adding real-time 2D object tracking to any detector. https://github.com/tryolabs/norfair
 
 ## Semantic segmentation
 * HyperSeg: Patch-wise Hypernetwork for Real-time Semantic Segmentation. HyperSeg - Official PyTorch Implementation: https://github.com/YuvalNirkin/hyperseg
