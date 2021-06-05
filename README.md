@@ -161,8 +161,6 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
    * Example: Automate your Feature Selection Workflow in one line of Python code. https://towardsdatascience.com/automate-your-feature-selection-workflow-in-one-line-of-python-code-3d4f23b7e2c4
 
 
-
-
 ## Machine learning EDA
 ### Some examples:
 * Titanic: Machine Learning from Disaster - EDA: https://www.kaggle.com/dwin183287/titanic-machine-learning-from-disaster-eda
@@ -210,6 +208,9 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **pachyderm**. Reproducible Data Science at Scale!. Data Versioning, Data Pipelines, and Data Lineage. Tool for version-controlled, automated, end-to-end data pipelines for data science. https://github.com/pachyderm/pachyderm
    * Website: https://www.pachyderm.com/
 * **mltrace**. Coarse-grained lineage and tracing for machine learning pipelines. https://github.com/loglabs/mltrace
+* **Tool-Experimentation**. Objective of the repository to play around with different tools (keepsake, MLflow etc) with basic projects. https://github.com/Mayurji/Tool-Experimentation
+
+
 
 
 ## Examples:
