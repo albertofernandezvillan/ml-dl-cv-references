@@ -1,5 +1,6 @@
 
 # Quick and dirty notes (just for me)
+* Multiclass Image Classification with Pytorch: https://github.com/MLWhiz/data_science_blogs/tree/master/compvisblog, https://towardsdatascience.com/end-to-end-pipeline-for-setting-up-multiclass-image-classification-for-data-scientists-2e051081d41c
 * AutoML Tutorial: TPS (June 2021). https://www.kaggle.com/rohanrao/automl-tutorial-tps-june-2021
 * Non Maximum Suppression: Theory and Implementation in PyTorch: https://learnopencv.com/non-maximum-suppression-theory-and-implementation-in-pytorch/
 * Model Deployment using Flask and PyCaret: https://sagarjiyani3010.medium.com/model-deployment-using-flask-and-pycaret-b09df0a33635, https://github.com/SagarJiyani3010/House-Price-Prediction-Deployment
