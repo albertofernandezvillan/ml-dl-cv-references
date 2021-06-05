@@ -221,6 +221,8 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
    * Website: https://aimstack.io/
 * **papermill**. 📚 Parameterize, execute, and analyze notebooks. https://github.com/nteract/papermill
    * Website: https://papermill.readthedocs.io/en/latest/
+* **vertex-ai**. Build, deploy, and scale ML models faster, with pre-trained and custom tooling within a unified AI platform. https://cloud.google.com/vertex-ai
+
 ## Tools for working with Notebooks
 * **nbdime**: Tools for diffing and merging of Jupyter notebooks. https://github.com/jupyter/nbdime
 * **nbQA**: Run any standard Python code quality tool on a Jupyter Notebook. https://github.com/nbQA-dev/nbQA
