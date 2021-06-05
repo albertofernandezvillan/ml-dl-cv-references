@@ -309,6 +309,9 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
    * article: https://towardsdatascience.com/squash-analytics-a-computer-vision-and-deep-learning-approach-d93087d0f298
 * **norfair**. Lightweight Python library for adding real-time 2D object tracking to any detector. https://github.com/tryolabs/norfair
 * **yolov5-face**. YOLO5Face: Why Reinventing a Face Detector. https://github.com/deepcam-cn/yolov5-face
+* **siam-mot**. SiamMOT: Siamese Multi-Object Tracking. https://github.com/amazon-research/siam-mot
+
+
 
 ## Semantic segmentation
 * HyperSeg: Patch-wise Hypernetwork for Real-time Semantic Segmentation. HyperSeg - Official PyTorch Implementation: https://github.com/YuvalNirkin/hyperseg
