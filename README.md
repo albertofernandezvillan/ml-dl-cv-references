@@ -308,6 +308,7 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * AI, Machine Learning and Analytics applied to Sports. https://github.com/fpretto/sports_analytics
    * article: https://towardsdatascience.com/squash-analytics-a-computer-vision-and-deep-learning-approach-d93087d0f298
 * **norfair**. Lightweight Python library for adding real-time 2D object tracking to any detector. https://github.com/tryolabs/norfair
+* **yolov5-face**. YOLO5Face: Why Reinventing a Face Detector. https://github.com/deepcam-cn/yolov5-face
 
 ## Semantic segmentation
 * HyperSeg: Patch-wise Hypernetwork for Real-time Semantic Segmentation. HyperSeg - Official PyTorch Implementation: https://github.com/YuvalNirkin/hyperseg
