@@ -200,6 +200,7 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 
 * **awesome-mlops**: A curated list of references for MLOps. https://github.com/visenger/awesome-mlops
   *  Website: https://ml-ops.org/
+* **awesome-mlops**: 😎 A curated list of awesome MLOps tools. https://github.com/kelvins/awesome-mlops
 * **Reproducible Deep Learning**. Host repository for the "Reproducible Deep Learning" PhD course. https://github.com/sscardapane/reprodl2021
   * Webiste: https://www.sscardapane.it/teaching/reproducibledl/
 * **mlflow**. Open source platform for the machine learning lifecycle. https://github.com/mlflow/mlflow/
