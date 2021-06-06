@@ -124,6 +124,8 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 
 * **applied-ml**: 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production. Curated papers, articles, and blogs on data science & machine learning in production. ⚙️. https://github.com/eugeneyan/applied-ml
 
+* **machine-learning-roadmap**: A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them. https://github.com/mrdbourke/machine-learning-roadmap
+
 * **PyCaret**: open-source, low-code machine learning library in Python that automates machine learning workflows. https://github.com/pycaret/pycaret
   *  Official Website: https://www.pycaret.org
   *  Documentation: https://pycaret.readthedocs.io/en/latest/
