@@ -281,6 +281,10 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 
 * **deep-learning-model-convertor**. The convertor/conversion of deep learning models for different deep learning frameworks/softwares. https://github.com/ysh329/deep-learning-model-convertor
 
+# Working with Colab
+* **colab_everything**: Python library to run streamlit, flask, fastapi, etc on google colab. https://github.com/Ankur-singh/colab_everything
+* **colab_utils**: Some useful (or not so much) Python stuff for Google Colab notebooks. https://github.com/ricardodeazambuja/colab_utils
+
 # ML solutions
 * **mediapipe**. Cross-platform, customizable ML solutions for live and streaming media. https://github.com/google/mediapipe
 
