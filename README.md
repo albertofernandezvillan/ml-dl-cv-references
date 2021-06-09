@@ -49,6 +49,9 @@ https://github.com/rohan-paul/Awesome-Machine-Learning-DataScience_Resources
 * **a-PyTorch-Tutorial-to-Object-Detection**. SSD: Single Shot MultiBox Detector | a PyTorch Tutorial to Object Detection. https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection
 * **YOLO_v3_tutorial_from_scratch**. Accompanying code for Paperspace tutorial series "How to Implement YOLO v3 Object Detector from Scratch". https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
 * **pytorch_notebooks**: A collection of PyTorch notebooks for learning and practicing deep learning. https://github.com/omarsar/pytorch_notebooks
+* **MLWithPytorch**: Objective of the repository is to learn and build machine learning models using Pytorch. 30DaysofML Using Pytorch. https://github.com/Mayurji/MLWithPytorch
+
+
 
 ## Pytorch Lightning
 Pytorch Lightning main repo: https://github.com/PyTorchLightning 
