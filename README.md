@@ -103,6 +103,11 @@ Pytorch Lightning main repo: https://github.com/PyTorchLightning
 * **paz**: Hierarchical perception library in Python (for pose estimation, object detection, instance segmentation, keypoint estimation, face recognition). https://github.com/oarriaga/paz
    * Website: https://oarriaga.github.io/paz/
 
+## TensorFlow Lite
+* **Adventures-in-TensorFlow-Lite**: This repository contains notebooks that show the usage of TensorFlow Lite (TF Lite) for quantizing deep neural networks. https://github.com/sayakpaul/Adventures-in-TensorFlow-Lite
+
+
+
 # Optimization frameworks
 * **optuna**: A hyperparameter optimization framework. https://github.com/optuna/optuna
    * Website: https://optuna.org/
