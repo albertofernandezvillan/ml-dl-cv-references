@@ -1,3 +1,6 @@
+# Repositories to explore
+https://github.com/phlippe/uvadlc_notebooks: Repository of Jupyter notebook tutorials for teaching the Deep Learning Course at the University of Amsterdam (MSc AI), Fall 2020. https://uvadlc-notebooks.readthedocs.io/en/latest/
+
 
 # Quick and dirty notes (just for me)
 * How To Build A Computer Vision Mobile App In Flutter. https://www.digitalknights.co/blog/build-computer-vision-ios-app-in-flutter
