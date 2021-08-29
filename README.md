@@ -52,6 +52,7 @@ https://github.com/rohan-paul/Awesome-Machine-Learning-DataScience_Resources
 * **MLWithPytorch**: Objective of the repository is to learn and build machine learning models using Pytorch. 30DaysofML Using Pytorch. https://github.com/Mayurji/MLWithPytorch
 * **deepcourse**: DeepCourse: Deep Learning for Computer Vision (from basics to State-of-the-Art). https://github.com/arthurdouillard/deepcourse
 * **UvA Deep Learning Tutorials**: Repository of Jupyter notebook tutorials for teaching the Deep Learning Course at the University of Amsterdam (MSc AI), Fall 2020. https://github.com/phlippe/uvadlc_notebooks
+* **neural networks with python and pytorch**: http://datahacker.rs/neural-networks-with-python-and-pytorch/
 
 
 
