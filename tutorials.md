@@ -3,6 +3,7 @@ https://github.com/phlippe/uvadlc_notebooks: Repository of Jupyter notebook tuto
 
 
 # Quick and dirty notes (just for me)
+* Introducing Zero Shot Object Tracking: https://blog.roboflow.com/zero-shot-object-tracking/amp/
 * Brain Tumor Classification with PyTorch⚡Lightning & EfficientNet 3D. https://www.kaggle.com/jirkaborovec/brain-tumor-classif-lightning-efficientnet3d
 * How To Build A Computer Vision Mobile App In Flutter. https://www.digitalknights.co/blog/build-computer-vision-ios-app-in-flutter
 * Data Cleaning with Python: A guide to data cleaning using the Airbnb NY data set. https://medium.com/bitgrit-data-science-publication/data-cleaning-with-python-f6bc3da64e45
