@@ -50,6 +50,8 @@ https://github.com/rohan-paul/Awesome-Machine-Learning-DataScience_Resources
 * **YOLO_v3_tutorial_from_scratch**. Accompanying code for Paperspace tutorial series "How to Implement YOLO v3 Object Detector from Scratch". https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
 * **pytorch_notebooks**: A collection of PyTorch notebooks for learning and practicing deep learning. https://github.com/omarsar/pytorch_notebooks
 * **MLWithPytorch**: Objective of the repository is to learn and build machine learning models using Pytorch. 30DaysofML Using Pytorch. https://github.com/Mayurji/MLWithPytorch
+* **deepcourse**: DeepCourse: Deep Learning for Computer Vision (from basics to State-of-the-Art). https://github.com/arthurdouillard/deepcourse
+* **UvA Deep Learning Tutorials**: Repository of Jupyter notebook tutorials for teaching the Deep Learning Course at the University of Amsterdam (MSc AI), Fall 2020. https://github.com/phlippe/uvadlc_notebooks
 
 
 
