@@ -3,6 +3,8 @@ https://github.com/phlippe/uvadlc_notebooks: Repository of Jupyter notebook tuto
 
 
 # Quick and dirty notes (just for me)
+* Attending to Attention: A summary of a revolutionary paper “Attention is All You Need” and Implementing the Transformer using PyTorch. https://medium.com/@agniakash25/attending-to-attention-eba798f0e940
+* PonderNet explained. Implementing a pondering network for the MNIST dataset. https://medium.com/@conradcardona/pondernet-explained-5e9571e657d
 * Introducing Zero Shot Object Tracking: https://blog.roboflow.com/zero-shot-object-tracking/amp/
 * Brain Tumor Classification with PyTorch⚡Lightning & EfficientNet 3D. https://www.kaggle.com/jirkaborovec/brain-tumor-classif-lightning-efficientnet3d
 * How To Build A Computer Vision Mobile App In Flutter. https://www.digitalknights.co/blog/build-computer-vision-ios-app-in-flutter
