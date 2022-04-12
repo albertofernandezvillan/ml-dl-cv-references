@@ -3,6 +3,17 @@ https://github.com/phlippe/uvadlc_notebooks: Repository of Jupyter notebook tuto
 
 
 # Quick and dirty notes (just for me)
+
+
+* Attention Is All You Need
+Annotated version of the paper in the form of a line-by-line implementation
+http://nlp.seas.harvard.edu/2018/04/03/attention.html
+https://github.com/harvardnlp/annotated-transformer
+
+* ViT - AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (fully explained)
+https://amaarora.github.io/2021/01/18/ViT.html
+
+
 * Deploy an Object-Detector Model at the Edge on AWS Panorama: https://towardsdatascience.com/deploy-an-object-detector-model-at-the-edge-on-aws-panorama-9b80ea1dd03a. More info here: https://docs.aws.amazon.com/panorama/latest/dev/panorama-welcome.html.
 * Attending to Attention: A summary of a revolutionary paper “Attention is All You Need” and Implementing the Transformer using PyTorch. https://medium.com/@agniakash25/attending-to-attention-eba798f0e940
 * PonderNet explained. Implementing a pondering network for the MNIST dataset. https://medium.com/@conradcardona/pondernet-explained-5e9571e657d
